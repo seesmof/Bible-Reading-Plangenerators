@@ -118,15 +118,18 @@ def main():
     except:
         cache={}
 
+    initial_keys_number=len(cache.keys())
     try:
-        for d in range(18000):
+        for d in range(20000):
             r=get_reading_for_day(d)
             print(d)
     except:
         print("Couldn't finish, stopped on day",d)
+    now_keys_number=len(cache.keys())
 
-    with open(cache_file_path,'w') as f:
-        json.dump(cache,f)
+    if initial_keys_number!=now_keys_number:
+        with open(cache_file_path,'w') as f:
+            json.dump(cache,f)
 
 if __name__=="__main__":
     main()
