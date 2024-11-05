@@ -133,7 +133,7 @@ def cache_writer(
     days_number:int=777_777
 ):
     try:
-        for day in range(1,days_number):
+        for day in range(777_777,888_888):
             get_reading_for_day(day)
     except:
         print("Couldn't finish, stopped on day",day)
@@ -182,11 +182,9 @@ def todoist_add_daily_reading(
 def main():
     initial_keys_number=len(cache.keys())
 
-    # cache_writer()
+    cache_writer()
     # todoist_add_daily_reading()
     # execute()
-    r=get_reading_for_day(751)
-    print(r)
 
     now_keys_number=len(cache.keys())
 
