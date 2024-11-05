@@ -1,6 +1,7 @@
 from data import PLAN_LISTS_WITH_BOOK_NUMBERS as lists_data
 from data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
 from data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
+from data import BIBLE_BOOK_NUMBER_TO_TINY_ABBREVIATION as eBible_abbreviations
 
 def get_next_reading_for_list(
     list_index:int,
@@ -69,8 +70,17 @@ def get_next_reading_for_day(
     # And return the formed list
     return reading_data
 
+def get_reading_link(
+    Book_number:int,
+    chapter_number:int,
+):
+    base_link = "https://ebible.org/study/?w1=bible&t1=local%3A"
+    version = 'ukr1871'
+    abbreviation = eBible_abbreviations[Book_number]
+    ready_link = f'{base_link}{version}&v1={abbreviation}{chapter_number}'
+    return ready_link
+
 data=get_next_reading_for_day(68)
-print(data)
 for r in data:
     bn,cn=r
-    print(Ukrainian_Book_names[bn],cn)
+    print(Ukrainian_Book_names[bn],cn,get_reading_link(bn,cn))
