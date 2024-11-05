@@ -44,7 +44,7 @@ def get_next_reading_for_list(
 def get_reading_for_day(
     day_number:int,
 ):
-    if cache.get(str(day_number)):
+    if cache.get(str(day_number)) and day_number:
         return cache[str(day_number)]
 
     # Will be forming a list of tuples
@@ -72,7 +72,7 @@ def get_reading_for_day(
                 # Add Book Number and Chapter Number to the Reading List
                 reading_data.append((Book_number,chapter_number))
 
-    if day_number not in cache.keys():
+    if day_number not in cache.keys() and day_number:
         cache[str(day_number)]=reading_data
     
     # And return the formed list
@@ -115,6 +115,8 @@ except:
     cache={}
 
 # MAIN CODE HERE
+for d in range(15000):
+    get_reading_for_day(d)
 
 with open(cache_file_path,'w') as f:
     json.dump(cache,f)
