@@ -74,10 +74,17 @@ def get_reading_link(
     Book_number:int,
     chapter_number:int,
 ):
+    # This is how a typical eBible.org reading link looks like
     base_link = "https://ebible.org/study/?w1=bible&t1=local%3A"
-    version = 'ukr1871'
-    abbreviation = eBible_abbreviations[Book_number]
-    ready_link = f'{base_link}{version}&v1={abbreviation}{chapter_number}'
+    
+    # Version can be later changed as a parameter
+    translation_abbreviation = 'ukr1871'
+    # Form a Bible Book Abbreviation specific to eBible.org, data taken from a constant variable
+    Book_name_abbreviation = eBible_abbreviations[Book_number]
+    # Form a link in a format that eBible.org uses
+    ready_link = f'{base_link}{translation_abbreviation}&v1={Book_name_abbreviation}{chapter_number}'
+
+    # And return it back to the user 
     return ready_link
 
 data=get_next_reading_for_day(68)
