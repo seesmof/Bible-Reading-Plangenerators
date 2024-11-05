@@ -38,10 +38,24 @@ def get_next_reading_for_list(
 
     return Book_index,chapter_number
 
-li=3
-bi,cn=0,0
-for _ in range(12):
-    bi,cn=get_next_reading_for_list(li,bi,cn)
-    ld=lists_data[li]
-    bn=ld[bi]
+def get_next_reading_for_day(
+    day_number:int,
+):
+    data=[]
+    for li in range(10):
+        cd=0
+        bi,cn=0,0
+        while cd!=day_number:
+            bi,cn=get_next_reading_for_list(li,bi,cn)
+            ld=lists_data[li]
+            bn=ld[bi]
+
+            cd+=1
+            if cd==day_number:
+                data.append((bn,cn))
+    return data
+
+data=get_next_reading_for_day(68)
+for r in data:
+    bn,cn=r
     print(Ukrainian_Book_names[bn],cn)
