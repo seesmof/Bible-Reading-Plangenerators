@@ -7,31 +7,33 @@ def get_next_reading_for_list(
     Book_index:int,
     chapter_number:int
 ):
-    # Get data with Book numbers for currently selected Bible reading list
+    # Get a list of Book numbers for current list
     list_data=lists_data[list_index]
 
-    # Get a Book number from a selected Book index
+    # Get a Book number from the selected list
     Book_number = list_data[Book_index]
 
-    # Get a number of existing chapters for currently selected Bible Book
+    # Get a number of available chapters for the current Book
     available_chapters = chapter_counts[Book_number]
 
-    # If there are more Chapters to be read in this Book
+    # Check if there are more chapters to read for this Book
     if chapter_number < available_chapters:
-        # Simply increment our chapter while we can
+        # If so, move to the next chapter
         chapter_number += 1
 
-    # If current chapter exceeds available chapters for the current Bible Book
+    # If there are no more chapters for the current Book
     else:
-        # Reset the chapter number back to one since we will be switching to a next Book on a list
+        # Then set a chapter into 1 since wee will be moving to the next Book
         chapter_number = 1
 
-        # First check if there are any more Books further in a list
+        # Now check if there are move Books in a list
         if Book_index < len(list_data)-1:
-            # Then we simply switch to the next Book in a list 
+            # If so then move to the next Book
             Book_index += 1
+        
+        # If there are no more Books to read from in a list
         else:
-            # If there are no more Book to read further in a list, then we restart our list
+            # Then restart the list and read the first Book
             Book_index = 0
 
     return Book_index,chapter_number
