@@ -142,7 +142,7 @@ def execute(
         f.writelines([l+'\n' for l in days_list])
 
 def cache_writer(
-    days_number:int=777777
+    days_number:int=777_777
 ):
     try:
         for day in range(days_number):
