@@ -63,27 +63,15 @@ def get_reading_for_day(
     # Will be forming a list of tuples
     # Each tuple will contain: Bible Book Number, and a Chapter Number
     reading_data=[]
+    previous_day_data=cache[str(day_number-1)]
 
     # Form readings for of the 10 lists
     for list_index in range(10):
-        # Keep track of current day, start with 0
-        current_day=0
-        # Initialize Book Index and Chapter Number to zeros
-        Book_index,chapter_number=0,0
-
-        # Keep getting readings for next day until we reach the target day
-        while current_day!=day_number:
-            # Update Book Index and Chapter Number with each iteration
-            Book_index,chapter_number=get_next_reading_for_list(list_index,Book_index,chapter_number)
-            
-            # Move to the next day
-            current_day+=1
-            # Now check if we reached our target day
-            if current_day==day_number:
-                # Then form a Book Number by first getting the current list, then selected the current Book by index
-                Book_number=lists_data[list_index][Book_index]
-                # Add Book Number and Chapter Number to the Reading List
-                reading_data.append((Book_number,chapter_number))
+        list_data=lists_data[list_index]
+        Book_number,chapter_number=previous_day_data[list_index]
+        Book_index=list_data.index(Book_number)
+        Book_index,chapter_number=get_next_reading_for_list(list_index,Book_index,chapter_number)
+        reading_data.append((list_data[Book_index],chapter_number))
 
     if day_number not in cache.keys() and day_number:
         cache[str(day_number)]=reading_data
@@ -145,11 +133,10 @@ def cache_writer(
     days_number:int=777_777
 ):
     try:
-        for day in range(days_number):
+        for day in range(1,days_number):
             get_reading_for_day(day)
-            print(day)
     except:
-        print("Couldn't finish, stopped on day",day-1)
+        print("Couldn't finish, stopped on day",day)
 
 def todoist_add_daily_reading(
     given_day:int=None
@@ -194,9 +181,13 @@ def todoist_add_daily_reading(
 
 def main():
     initial_keys_number=len(cache.keys())
-    cache_writer()
+
+    # cache_writer()
     # todoist_add_daily_reading()
     # execute()
+    r=get_reading_for_day(751)
+    print(r)
+
     now_keys_number=len(cache.keys())
 
     if initial_keys_number!=now_keys_number:
