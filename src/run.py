@@ -9,6 +9,7 @@ from data import BIBLE_BOOK_NUMBER_TO_ENGLISH_NAME as English_Book_names
 from data import BIBLE_BOOK_NUMBER_TO_TINY_ABBREVIATION as eBible_abbreviations
 
 root=os.path.dirname(os.path.abspath(__file__))
+results=os.path.join(root,"..","example")
 data_file_path=os.path.join(root,"data.json")
 cache_file_path=os.path.join(root,"cache.json")
 try:
@@ -118,16 +119,27 @@ def get_formatted_reading_link(
     return f'[{Book_name} {chapter_number}]({reading_link})' if link_type=='MD' else f'<a href="{reading_link}">{Book_name} {chapter_number}</a>'
 
 def execute(
-    stop:int=100,
+    stop:int=366,
     start:int=1,
 ):
+    '''
+    language: English | Ukrainian
+    provider: eBible | BollsLife | BibleGateway | YouVersion | BlueLetterBible
+    links: with | without
+    day_numbers: show | hide
+    format: md | html
+    '''
+
+    days_list=[]
     for day in range(start,stop):
-        d=get_reading_for_day(day)
-        res=f'{day}. {", ".join([f'[{Ukrainian_Book_names[bn]} {cn}]({get_reading_link(bn,cn)})' for bn,cn in d])}\n'
-        cd=os.path.dirname(os.path.abspath(__file__))
-        r=os.path.join(cd,"..")
-        with open(os.path.join(r,"Plan.md"),encoding='utf-8',mode='a') as f:
-            f.write(res)
+        day_list=[]
+        for Book_number,chapter_number in get_reading_for_day(day):
+            day_list.append(get_formatted_reading_link(Book_number,chapter_number,link_type='HTML'))
+        days_list.append(f'<article>{day}. {", ".join(day_list)}</article>')
+    
+    file_path=os.path.join(results,'example.html')
+    with open(file_path,'w',encoding='utf-8') as f:
+        f.writelines([l+'\n' for l in days_list])
 
 def cache_writer(
     days_number:int=777777
@@ -182,8 +194,9 @@ def todoist_add_daily_reading(
 
 def main():
     initial_keys_number=len(cache.keys())
-    cache_writer()
+    # cache_writer()
     # todoist_add_daily_reading()
+    execute()
     now_keys_number=len(cache.keys())
 
     if initial_keys_number!=now_keys_number:
@@ -192,11 +205,3 @@ def main():
 
 if __name__=="__main__":
     main()
-
-'''
-language: English | Ukrainian
-provider: eBible | BollsLife | BibleGateway | YouVersion | BlueLetterBible
-links: with | without
-day_numbers: show | hide
-format: md | html
-'''
