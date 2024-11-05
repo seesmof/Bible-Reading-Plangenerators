@@ -5,6 +5,7 @@ from todoist_api_python.api import TodoistAPI
 from data import PLAN_LISTS_WITH_BOOK_NUMBERS as lists_data, TODOIST_API_KEY
 from data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
 from data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
+from data import BIBLE_BOOK_NUMBER_TO_ENGLISH_NAME as English_Book_names
 from data import BIBLE_BOOK_NUMBER_TO_TINY_ABBREVIATION as eBible_abbreviations
 
 root=os.path.dirname(os.path.abspath(__file__))
@@ -106,6 +107,15 @@ def get_reading_link(
     # And return it back to the user 
     return ready_link
 
+def get_markdown_reading_link(
+    Book_number:int,
+    chapter_number:int,
+    language:str="UK"
+):
+    reading_link=get_reading_link(Book_number,chapter_number)
+    Book_name=Ukrainian_Book_names[Book_number] if language=='UK' else English_Book_names[Book_number]
+    return f'[{Book_name} {chapter_number}]({reading_link})'
+
 def execute(
     stop:int=100,
     start:int=1,
@@ -161,10 +171,8 @@ def todoist_add_daily_reading(
     parent_id=add_unique_task(main_task_name,due='today').id
 
     reading_list=get_reading_for_day(day)
-    for Book_name,chapter_number in reading_list:
-        reading_link=get_reading_link(Book_name,chapter_number)
-        subtask_name=f'[{Ukrainian_Book_names[Book_name]} {chapter_number}]({reading_link})'
-        add_unique_task(subtask_name,parent_id)
+    for Book_number,chapter_number in reading_list:
+        add_unique_task(get_markdown_reading_link(Book_number,chapter_number),parent_id)
 
     if not given_day:
         data['day']+=1
