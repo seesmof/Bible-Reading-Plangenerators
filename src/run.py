@@ -109,7 +109,7 @@ def execute(
         with open(os.path.join(r,"Plan.md"),encoding='utf-8',mode='a') as f:
             f.write(res)
 
-def cache_writer(days_number:int=3333333):
+def cache_writer(days_number:int=777777):
     try:
         for d in range(days_number):
             r=get_reading_for_day(d)
