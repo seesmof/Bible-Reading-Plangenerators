@@ -1,3 +1,5 @@
+import os
+import time
 from data import PLAN_LISTS_WITH_BOOK_NUMBERS as lists_data
 from data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
 from data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
@@ -87,7 +89,12 @@ def get_reading_link(
     # And return it back to the user 
     return ready_link
 
-data=get_reading_for_day(68)
-for r in data:
-    bn,cn=r
-    print(Ukrainian_Book_names[bn],cn,get_reading_link(bn,cn))
+days_number=33333
+start_day=1
+for day in range(start_day,days_number):
+    d=get_reading_for_day(day)
+    res=";".join([f'[{Ukrainian_Book_names[bn]} {cn}]({get_reading_link(bn,cn)})' for bn,cn in d])+'\n'
+    cd=os.path.dirname(os.path.abspath(__file__))
+    r=os.path.join(cd,"..")
+    with open(os.path.join(r,"Plan.md"),encoding='utf-8',mode='a') as f:
+        f.write(res)
