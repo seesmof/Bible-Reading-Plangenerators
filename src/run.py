@@ -5,6 +5,8 @@ from data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
 from data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
 from data import BIBLE_BOOK_NUMBER_TO_TINY_ABBREVIATION as eBible_abbreviations
 
+cache=None
+
 def get_next_reading_for_list(
     list_index:int,
     Book_index:int,
@@ -107,16 +109,22 @@ def execute(
         with open(os.path.join(r,"Plan.md"),encoding='utf-8',mode='a') as f:
             f.write(res)
 
-cache_file_path=os.path.join(os.path.dirname(os.path.abspath(__file__)),"cache.json")
-try:
-    with open(cache_file_path,'r') as f:
-        cache=json.load(f)
-except:
-    cache={}
+def main():
+    global cache
+    cache_file_path=os.path.join(os.path.dirname(os.path.abspath(__file__)),"cache.json")
+    try:
+        with open(cache_file_path,'r') as f:
+            cache=json.load(f)
+    except:
+        cache={}
 
-# MAIN CODE HERE
-for d in range(15000):
-    get_reading_for_day(d)
+    initial_cache=cache
+    for d in range(120):
+        r=get_reading_for_day(d)
+    modified_cache=cache
 
-with open(cache_file_path,'w') as f:
-    json.dump(cache,f)
+    if modified_cache!=initial_cache:
+        with open(cache_file_path,'w') as f:
+            json.dump(cache,f)
+
+main()
