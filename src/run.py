@@ -118,13 +118,15 @@ def execute(
         with open(os.path.join(r,"Plan.md"),encoding='utf-8',mode='a') as f:
             f.write(res)
 
-def cache_writer(days_number:int=777777):
+def cache_writer(
+    days_number:int=777777
+):
     try:
-        for d in range(days_number):
-            r=get_reading_for_day(d)
-            print(d)
+        for day in range(days_number):
+            get_reading_for_day(day)
+            print(day)
     except:
-        print("Couldn't finish, stopped on day",d-1)
+        print("Couldn't finish, stopped on day",day-1)
 
 def todoist_add_daily_reading(
     given_day:int=None
@@ -172,7 +174,7 @@ def todoist_add_daily_reading(
 def main():
     initial_keys_number=len(cache.keys())
     # cache_writer()
-    todoist_add_daily_reading(1)
+    todoist_add_daily_reading()
     now_keys_number=len(cache.keys())
 
     if initial_keys_number!=now_keys_number:
