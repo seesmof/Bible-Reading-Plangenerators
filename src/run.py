@@ -39,7 +39,7 @@ def get_next_reading_for_list(
 
     return Book_index,chapter_number
 
-def get_next_reading_for_day(
+def get_reading_for_day(
     day_number:int,
 ):
     # Will be forming a list of tuples
@@ -76,7 +76,7 @@ def get_reading_link(
 ):
     # This is how a typical eBible.org reading link looks like
     base_link = "https://ebible.org/study/?w1=bible&t1=local%3A"
-    
+
     # Version can be later changed as a parameter
     translation_abbreviation = 'ukr1871'
     # Form a Bible Book Abbreviation specific to eBible.org, data taken from a constant variable
@@ -87,7 +87,7 @@ def get_reading_link(
     # And return it back to the user 
     return ready_link
 
-data=get_next_reading_for_day(68)
+data=get_reading_for_day(68)
 for r in data:
     bn,cn=r
     print(Ukrainian_Book_names[bn],cn,get_reading_link(bn,cn))
