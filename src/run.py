@@ -118,13 +118,15 @@ def main():
     except:
         cache={}
 
-    initial_cache=cache
-    for d in range(120):
-        r=get_reading_for_day(d)
-    modified_cache=cache
+    try:
+        for d in range(18000):
+            r=get_reading_for_day(d)
+            print(d)
+    except:
+        print("Couldn't finish, stopped on day",d)
 
-    if modified_cache!=initial_cache:
-        with open(cache_file_path,'w') as f:
-            json.dump(cache,f)
+    with open(cache_file_path,'w') as f:
+        json.dump(cache,f)
 
-main()
+if __name__=="__main__":
+    main()
