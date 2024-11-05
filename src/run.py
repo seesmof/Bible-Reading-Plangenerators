@@ -133,7 +133,7 @@ def cache_writer(
     days_number:int=777_777
 ):
     try:
-        for day in range(777_777,888_888):
+        for day in range(888_888,933_778):
             get_reading_for_day(day)
     except:
         print("Couldn't finish, stopped on day",day)
