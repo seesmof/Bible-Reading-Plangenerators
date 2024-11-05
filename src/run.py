@@ -41,21 +41,36 @@ def get_next_reading_for_list(
 def get_next_reading_for_day(
     day_number:int,
 ):
-    data=[]
-    for li in range(10):
-        cd=0
-        bi,cn=0,0
-        while cd!=day_number:
-            bi,cn=get_next_reading_for_list(li,bi,cn)
-            ld=lists_data[li]
-            bn=ld[bi]
+    # Will be forming a list of tuples
+    # Each tuple will contain: Bible Book Number, and a Chapter Number
+    reading_data=[]
 
-            cd+=1
-            if cd==day_number:
-                data.append((bn,cn))
-    return data
+    # Form readings for of the 10 lists
+    for list_index in range(10):
+        # Keep track of current day, start with 0
+        current_day=0
+        # Initialize Book Index and Chapter Number to zeros
+        Book_index,chapter_number=0,0
+
+        # Keep getting readings for next day until we reach the target day
+        while current_day!=day_number:
+            # Update Book Index and Chapter Number with each iteration
+            Book_index,chapter_number=get_next_reading_for_list(list_index,Book_index,chapter_number)
+            
+            # Move to the next day
+            current_day+=1
+            # Now check if we reached our target day
+            if current_day==day_number:
+                # Then form a Book Number by first getting the current list, then selected the current Book by index
+                Book_number=lists_data[list_index][Book_index]
+                # Add Book Number and Chapter Number to the Reading List
+                reading_data.append((Book_number,chapter_number))
+    
+    # And return the formed list
+    return reading_data
 
 data=get_next_reading_for_day(68)
+print(data)
 for r in data:
     bn,cn=r
     print(Ukrainian_Book_names[bn],cn)
