@@ -120,11 +120,11 @@ def main():
 
     initial_keys_number=len(cache.keys())
     try:
-        for d in range(20000):
+        for d in range(300000):
             r=get_reading_for_day(d)
             print(d)
     except:
-        print("Couldn't finish, stopped on day",d)
+        print("Couldn't finish, stopped on day",d-1)
     now_keys_number=len(cache.keys())
 
     if initial_keys_number!=now_keys_number:
