@@ -109,6 +109,14 @@ def execute(
         with open(os.path.join(r,"Plan.md"),encoding='utf-8',mode='a') as f:
             f.write(res)
 
+def cache_writer(days_number:int=3333333):
+    try:
+        for d in range(days_number):
+            r=get_reading_for_day(d)
+            print(d)
+    except:
+        print("Couldn't finish, stopped on day",d-1)
+
 def main():
     global cache
     cache_file_path=os.path.join(os.path.dirname(os.path.abspath(__file__)),"cache.json")
@@ -119,12 +127,7 @@ def main():
         cache={}
 
     initial_keys_number=len(cache.keys())
-    try:
-        for d in range(300000):
-            r=get_reading_for_day(d)
-            print(d)
-    except:
-        print("Couldn't finish, stopped on day",d-1)
+    cache_writer()
     now_keys_number=len(cache.keys())
 
     if initial_keys_number!=now_keys_number:
@@ -133,3 +136,11 @@ def main():
 
 if __name__=="__main__":
     main()
+
+'''
+language: English | Ukrainian
+provider: eBible | BollsLife | BibleGateway | YouVersion | BlueLetterBible
+links: with | without
+day_numbers: show | hide
+format: md | html
+'''
