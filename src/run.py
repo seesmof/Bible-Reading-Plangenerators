@@ -194,9 +194,9 @@ def todoist_add_daily_reading(
 
 def main():
     initial_keys_number=len(cache.keys())
-    # cache_writer()
+    cache_writer()
     # todoist_add_daily_reading()
-    execute()
+    # execute()
     now_keys_number=len(cache.keys())
 
     if initial_keys_number!=now_keys_number:
