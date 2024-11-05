@@ -1,9 +1,20 @@
 import os
 import json
-from data import PLAN_LISTS_WITH_BOOK_NUMBERS as lists_data
+from todoist_api_python.api import TodoistAPI
+
+from data import PLAN_LISTS_WITH_BOOK_NUMBERS as lists_data, TODOIST_API_KEY
 from data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
 from data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
 from data import BIBLE_BOOK_NUMBER_TO_TINY_ABBREVIATION as eBible_abbreviations
+
+root=os.path.dirname(os.path.abspath(__file__))
+data_file_path=os.path.join(root,"data.json")
+cache_file_path=os.path.join(root,"cache.json")
+try:
+    with open(cache_file_path,'r') as f:
+        cache=json.load(f)
+except:
+    cache={}
 
 def get_next_reading_for_list(
     list_index:int,
@@ -115,12 +126,47 @@ def cache_writer(days_number:int=777777):
     except:
         print("Couldn't finish, stopped on day",d-1)
 
-cache_file_path=os.path.join(os.path.dirname(os.path.abspath(__file__)),"cache.json")
-try:
-    with open(cache_file_path,'r') as f:
-        cache=json.load(f)
-except:
-    cache={}
+def todoist_add_daily_reading(given_day:int=None):
+    todoist=TodoistAPI(TODOIST_API_KEY)
+    tasks=todoist.get_tasks()
+    target_project='2342885371'
+
+    def check_available_tasks(
+        tn:str,
+        parent:int=None,
+        project:str=target_project,
+    ):
+        return [
+            t for t in tasks 
+            if tn in t.content 
+            and t.project_id==project 
+            and (t.parent_id==parent if parent else True)
+        ]
+    
+    # read day
+    with open(data_file_path,'r') as f:
+        data=json.load(f)
+    day=data['day'] if not given_day else given_day
+
+    # form parent task 
+    task_name=f'Біблія {day}'
+    check_tasks=check_available_tasks(task_name)
+    parent_task=todoist.add_task(task_name,due_string='today',project_id=target_project) if not check_tasks else check_tasks[0]
+    parent=parent_task.id
+
+    # form and add 10 subtasks into parent task 
+    subtasks=get_reading_for_day(day)
+    for t in subtasks:
+        bn,cn=t
+        l=get_reading_link(bn,cn)
+        tn=f'[{Ukrainian_Book_names[bn]} {cn}]({l})'
+        check=check_available_tasks(tn,parent)
+        newt=todoist.add_task(tn,project_id=target_project,parent_id=parent) if not check else check[0]
+
+    if not given_day:
+        data['day']+=1
+        with open(data_file_path,'w') as f:
+            json.dump(data,f)
 
 def main():
     initial_keys_number=len(cache.keys())
