@@ -126,42 +126,45 @@ def cache_writer(days_number:int=777777):
     except:
         print("Couldn't finish, stopped on day",d-1)
 
-def todoist_add_daily_reading(given_day:int=None):
+def todoist_add_daily_reading(
+    given_day:int=None
+):
     todoist=TodoistAPI(TODOIST_API_KEY)
     tasks=todoist.get_tasks()
-    target_project='2342885371'
 
     def check_available_tasks(
         tn:str,
         parent:int=None,
-        project:str=target_project,
     ):
         return [
             t for t in tasks 
             if tn in t.content 
-            and t.project_id==project 
             and (t.parent_id==parent if parent else True)
         ]
     
-    # read day
+    def add_unique_task(
+        tn:str,
+        parent:int=None,
+        due:str=None,
+    ):
+        c=check_available_tasks(tn,parent)
+        t=todoist.add_task(tn,parent_id=parent,due_string=due) if not c else c[0]
+        return t
+    
     with open(data_file_path,'r') as f:
         data=json.load(f)
     day=data['day'] if not given_day else given_day
 
-    # form parent task 
-    task_name=f'Біблія {day}'
-    check_tasks=check_available_tasks(task_name)
-    parent_task=todoist.add_task(task_name,due_string='today',project_id=target_project) if not check_tasks else check_tasks[0]
-    parent=parent_task.id
+    tn=f'Біблія {day}'
+    pt=add_unique_task(tn,due='today')
+    parent=pt.id
 
-    # form and add 10 subtasks into parent task 
     subtasks=get_reading_for_day(day)
     for t in subtasks:
         bn,cn=t
         l=get_reading_link(bn,cn)
         tn=f'[{Ukrainian_Book_names[bn]} {cn}]({l})'
-        check=check_available_tasks(tn,parent)
-        newt=todoist.add_task(tn,project_id=target_project,parent_id=parent) if not check else check[0]
+        add_unique_task(tn,parent)
 
     if not given_day:
         data['day']+=1
@@ -170,7 +173,8 @@ def todoist_add_daily_reading(given_day:int=None):
 
 def main():
     initial_keys_number=len(cache.keys())
-    cache_writer()
+    # cache_writer()
+    todoist_add_daily_reading(1)
     now_keys_number=len(cache.keys())
 
     if initial_keys_number!=now_keys_number:
