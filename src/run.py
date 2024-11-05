@@ -44,7 +44,8 @@ def get_next_reading_for_list(
 def get_reading_for_day(
     day_number:int,
 ):
-    # TODO add cache
+    if cache.get(str(day_number)):
+        return cache[str(day_number)]
 
     # Will be forming a list of tuples
     # Each tuple will contain: Bible Book Number, and a Chapter Number
@@ -70,6 +71,9 @@ def get_reading_for_day(
                 Book_number=lists_data[list_index][Book_index]
                 # Add Book Number and Chapter Number to the Reading List
                 reading_data.append((Book_number,chapter_number))
+
+    if day_number not in cache.keys():
+        cache[str(day_number)]=reading_data
     
     # And return the formed list
     return reading_data
@@ -110,7 +114,7 @@ try:
 except:
     cache={}
 
-print(cache)
+# MAIN CODE HERE
 
 with open(cache_file_path,'w') as f:
     json.dump(cache,f)
