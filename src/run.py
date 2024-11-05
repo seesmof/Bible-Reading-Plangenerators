@@ -1,4 +1,5 @@
 import os
+import json
 from data import PLAN_LISTS_WITH_BOOK_NUMBERS as lists_data
 from data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
 from data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
@@ -43,6 +44,8 @@ def get_next_reading_for_list(
 def get_reading_for_day(
     day_number:int,
 ):
+    # TODO add cache
+
     # Will be forming a list of tuples
     # Each tuple will contain: Bible Book Number, and a Chapter Number
     reading_data=[]
@@ -100,4 +103,14 @@ def execute(
         with open(os.path.join(r,"Plan.md"),encoding='utf-8',mode='a') as f:
             f.write(res)
 
-execute(3333+1)
+cache_file_path=os.path.join(os.path.dirname(os.path.abspath(__file__)),"cache.json")
+try:
+    with open(cache_file_path,'r') as f:
+        cache=json.load(f)
+except:
+    cache={}
+
+print(cache)
+
+with open(cache_file_path,'w') as f:
+    json.dump(cache,f)
