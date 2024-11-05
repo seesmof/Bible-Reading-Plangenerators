@@ -5,8 +5,6 @@ from data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
 from data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
 from data import BIBLE_BOOK_NUMBER_TO_TINY_ABBREVIATION as eBible_abbreviations
 
-cache=None
-
 def get_next_reading_for_list(
     list_index:int,
     Book_index:int,
@@ -117,15 +115,14 @@ def cache_writer(days_number:int=777777):
     except:
         print("Couldn't finish, stopped on day",d-1)
 
-def main():
-    global cache
-    cache_file_path=os.path.join(os.path.dirname(os.path.abspath(__file__)),"cache.json")
-    try:
-        with open(cache_file_path,'r') as f:
-            cache=json.load(f)
-    except:
-        cache={}
+cache_file_path=os.path.join(os.path.dirname(os.path.abspath(__file__)),"cache.json")
+try:
+    with open(cache_file_path,'r') as f:
+        cache=json.load(f)
+except:
+    cache={}
 
+def main():
     initial_keys_number=len(cache.keys())
     cache_writer()
     now_keys_number=len(cache.keys())
