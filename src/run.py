@@ -134,7 +134,7 @@ def execute(
     for day in range(start,stop):
         day_list=[]
         for Book_number,chapter_number in get_reading_for_day(day):
-            day_list.append(get_formatted_reading_link(Book_number,chapter_number,link_type='HTML'))
+            day_list.append(f'{Ukrainian_Book_names[Book_number]} {chapter_number}')
         days_list.append(f'<article>{day}. {", ".join(day_list)}</article>')
     
     file_path=os.path.join(results,'example.html')
