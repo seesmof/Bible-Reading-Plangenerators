@@ -1,5 +1,6 @@
 from data import PLAN_LISTS_WITH_BOOK_NUMBERS as lists_data
 from data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
+from data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
 
 def get_next_reading_for_list(
     list_index:int,
@@ -14,10 +15,6 @@ def get_next_reading_for_list(
 
     # Get a number of existing chapters for currently selected Bible Book
     available_chapters = chapter_counts[selected_Book_number]
-
-    print(current_list_data)
-    print(selected_Book_number)
-    print(available_chapters)
 
     # If there are more Chapters to be read in this Book
     if chapter_number < available_chapters:
@@ -37,4 +34,11 @@ def get_next_reading_for_list(
             # If there are no more Book to read further in a list, then we restart our list
             Book_index = 0
 
-get_next_reading_for_list(0,0,0)
+    return Book_index,chapter_number
+
+li=3
+bi,cn=0,0
+for _ in range(12):
+    bi,cn=get_next_reading_for_list(li,bi,cn)
+    bn=lists_data[li]
+    print(Ukrainian_Book_names[bn[bi]],cn)
