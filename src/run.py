@@ -133,38 +133,36 @@ def todoist_add_daily_reading(
     tasks=todoist.get_tasks()
 
     def check_available_tasks(
-        tn:str,
+        task_name:str,
         parent:int=None,
     ):
         return [
             t for t in tasks 
-            if tn in t.content 
+            if task_name in t.content 
             and (t.parent_id==parent if parent else True)
         ]
     
     def add_unique_task(
-        tn:str,
+        task_name:str,
         parent:int=None,
         due:str=None,
     ):
-        c=check_available_tasks(tn,parent)
-        t=todoist.add_task(tn,parent_id=parent,due_string=due) if not c else c[0]
-        return t
+        duplicates=check_available_tasks(task_name,parent)
+        new_task=todoist.add_task(task_name,parent_id=parent,due_string=due) if not duplicates else duplicates[0]
+        return new_task
     
     with open(data_file_path,'r') as f:
         data=json.load(f)
     day=data['day'] if not given_day else given_day
 
-    tn=f'Біблія {day}'
-    pt=add_unique_task(tn,due='today')
-    parent=pt.id
+    main_task_name=f'Біблія {day}'
+    parent_id=add_unique_task(main_task_name,due='today').id
 
-    subtasks=get_reading_for_day(day)
-    for t in subtasks:
-        bn,cn=t
-        l=get_reading_link(bn,cn)
-        tn=f'[{Ukrainian_Book_names[bn]} {cn}]({l})'
-        add_unique_task(tn,parent)
+    reading_list=get_reading_for_day(day)
+    for Book_name,chapter_number in reading_list:
+        reading_link=get_reading_link(Book_name,chapter_number)
+        subtask_name=f'[{Ukrainian_Book_names[Book_name]} {chapter_number}]({reading_link})'
+        add_unique_task(subtask_name,parent_id)
 
     if not given_day:
         data['day']+=1
