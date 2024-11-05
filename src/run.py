@@ -8,13 +8,13 @@ def get_next_reading_for_list(
     chapter_number:int
 ):
     # Get data with Book numbers for currently selected Bible reading list
-    current_list_data=lists_data[list_index]
+    list_data=lists_data[list_index]
 
     # Get a Book number from a selected Book index
-    selected_Book_number = current_list_data[Book_index]
+    Book_number = list_data[Book_index]
 
     # Get a number of existing chapters for currently selected Bible Book
-    available_chapters = chapter_counts[selected_Book_number]
+    available_chapters = chapter_counts[Book_number]
 
     # If there are more Chapters to be read in this Book
     if chapter_number < available_chapters:
@@ -27,7 +27,7 @@ def get_next_reading_for_list(
         chapter_number = 1
 
         # First check if there are any more Books further in a list
-        if Book_index < len(current_list_data)-1:
+        if Book_index < len(list_data)-1:
             # Then we simply switch to the next Book in a list 
             Book_index += 1
         else:
@@ -40,5 +40,6 @@ li=3
 bi,cn=0,0
 for _ in range(12):
     bi,cn=get_next_reading_for_list(li,bi,cn)
-    bn=lists_data[li]
-    print(Ukrainian_Book_names[bn[bi]],cn)
+    ld=lists_data[li]
+    bn=ld[bi]
+    print(Ukrainian_Book_names[bn],cn)
