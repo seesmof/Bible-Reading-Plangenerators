@@ -181,16 +181,18 @@ def todoist_add_daily_reading(
 
 def main():
     initial_keys_number=len(cache.keys())
+    print('read cache')
 
-    cache_writer()
-    # todoist_add_daily_reading()
-    # execute()
+    for _ in range(12):
+        todoist_add_daily_reading()
+    print('perform opertaions')
 
     now_keys_number=len(cache.keys())
 
     if initial_keys_number!=now_keys_number:
         with open(cache_file_path,'w') as f:
             json.dump(cache,f)
+    print('write cache')
 
 if __name__=="__main__":
     main()
