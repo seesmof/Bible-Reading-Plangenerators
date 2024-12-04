@@ -148,7 +148,6 @@ def todoist_add_daily_reading(
             json.dump(data,f)
 
 CURRENT_DAY=109
-
 lines=[]
 for day in range(CURRENT_DAY,CURRENT_DAY+366):
     plan_for_day=get_reading_for_day(day)
