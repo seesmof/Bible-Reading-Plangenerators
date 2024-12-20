@@ -96,13 +96,18 @@ def get_reading_link(
     # And return it back to the user 
     return ready_link
 
+def get_bolls_link(Book,chapter):
+    base='https://bolls.life/HOM'
+    ready=f'{base}/{Book}/{chapter}/'
+    return ready
+
 def get_formatted_link(
     Book_number:int,
     chapter_number:int,
     language:str="UK",
     link_type:str='MD'
 ):
-    reading_link=get_reading_link(Book_number,chapter_number)
+    reading_link=get_bolls_link(Book_number,chapter_number)
     Book_name=Ukrainian_Book_names[Book_number] if language=='UK' else English_Book_names[Book_number]
     return f'[{Book_name} {chapter_number}]({reading_link})' if link_type=='MD' else f'<a href="{reading_link}">{Book_name} {chapter_number}</a>'
 
@@ -147,7 +152,7 @@ def todoist_add_daily_reading(
         with open(data_file_path,'w') as f:
             json.dump(data,f)
 
-CURRENT_DAY=109
+CURRENT_DAY=136
 lines=[]
 for day in range(CURRENT_DAY,CURRENT_DAY+366):
     plan_for_day=get_reading_for_day(day)
