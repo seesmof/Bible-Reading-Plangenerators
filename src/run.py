@@ -79,7 +79,7 @@ def get_reading_for_day(
     # And return the formed list
     return reading_data
 
-def get_reading_link(
+def get_eBible_reading_link(
     Book_number:int,
     chapter_number:int,
 ):
@@ -96,7 +96,7 @@ def get_reading_link(
     # And return it back to the user 
     return ready_link
 
-def get_bolls_link(Book,chapter):
+def get_Bolls_reading_link(Book,chapter):
     base='https://bolls.life/HOM'
     ready=f'{base}/{Book}/{chapter}/'
     return ready
@@ -107,7 +107,7 @@ def get_formatted_link(
     language:str="UK",
     link_type:str='MD'
 ):
-    reading_link=get_bolls_link(Book_number,chapter_number)
+    reading_link=get_eBible_reading_link(Book_number,chapter_number)
     Book_name=Ukrainian_Book_names[Book_number] if language=='UK' else English_Book_names[Book_number]
     return f'[{Book_name} {chapter_number}]({reading_link})' if link_type=='MD' else f'<a href="{reading_link}">{Book_name} {chapter_number}</a>'
 
@@ -152,7 +152,7 @@ def todoist_add_daily_reading(
         with open(data_file_path,'w') as f:
             json.dump(data,f)
 
-CURRENT_DAY=136
+CURRENT_DAY=158
 lines=[]
 for day in range(CURRENT_DAY,CURRENT_DAY+366):
     plan_for_day=get_reading_for_day(day)
@@ -160,5 +160,11 @@ for day in range(CURRENT_DAY,CURRENT_DAY+366):
         Book,chapter=reading
         link=get_formatted_link(Book,chapter)
         lines.append(link+f" день {day}" if i==0 else link)
-with open(os.path.join(results,'output.txt'),encoding='utf-8',mode='w') as f:
-    f.writelines([l+'\n' for l in lines])
+print(f'Formed links for 365 days from day {CURRENT_DAY}')
+
+local_output_file_path=os.path.join(results,'output.txt')
+vault_output_file_path=os.path.join(r'E:\Notatnyk\План.md')
+with open(os.path.join(results,'output.txt'),encoding='utf-8',mode='w') as local_output_file, open(vault_output_file_path,encoding='utf-8',mode='w') as vault_output_file:
+    output_lines=[l+'\n' for l in lines]
+    local_output_file.writelines(output_lines)
+    vault_output_file.writelines(output_lines)
