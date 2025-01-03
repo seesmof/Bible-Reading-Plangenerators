@@ -5,7 +5,7 @@ from todoist_api_python.api import TodoistAPI
 from data import PLAN_LISTS_WITH_BOOK_NUMBERS as lists_data, TODOIST_API_KEY
 from data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
 from data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
-from data import BIBLE_BOOK_NUMBER_TO_ENGLISH_NAME as English_Book_names
+from data import BIBLE_BOOK_NUMBER_TO_SHORT_ABBREVIATION as English_Book_names
 from data import BIBLE_BOOK_NUMBER_TO_TINY_ABBREVIATION as eBible_abbreviations
 
 root=os.path.dirname(os.path.abspath(__file__))
@@ -104,7 +104,7 @@ def get_Bolls_reading_link(Book,chapter):
 def get_formatted_link(
     Book_number:int,
     chapter_number:int,
-    language:str="UK",
+    language:str='EN',
     link_type:str='MD'
 ):
     reading_link=get_eBible_reading_link(Book_number,chapter_number)
@@ -152,7 +152,7 @@ def todoist_add_daily_reading(
         with open(data_file_path,'w') as f:
             json.dump(data,f)
 
-CURRENT_DAY=158
+CURRENT_DAY=163
 lines=[]
 for day in range(CURRENT_DAY,CURRENT_DAY+366):
     plan_for_day=get_reading_for_day(day)
