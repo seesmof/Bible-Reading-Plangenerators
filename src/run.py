@@ -101,15 +101,25 @@ def get_Bolls_reading_link(Book,chapter):
     ready=f'{base}/{Book}/{chapter}/'
     return ready
 
+def get_local_reading_link(
+    Book:int,
+    chapter:int,
+):
+    # [[Біблія Куліша#GEN 1|GEN 1]]
+    base=r'[[Біблія Куліша#'
+    Book_abbreviation=English_Book_names[Book]
+    ref=f'{Book_abbreviation} {chapter}'
+    return f'{base}{ref}|{ref}]]'
+
 def get_formatted_link(
     Book_number:int,
     chapter_number:int,
     language:str='EN',
-    link_type:str='MD'
+    link_type:str='MD_internal',
 ):
-    reading_link=get_eBible_reading_link(Book_number,chapter_number)
+    reading_link=get_local_reading_link(Book_number,chapter_number)
     Book_name=Ukrainian_Book_names[Book_number] if language=='UK' else English_Book_names[Book_number]
-    return f'[{Book_name} {chapter_number}]({reading_link})' if link_type=='MD' else f'<a href="{reading_link}">{Book_name} {chapter_number}</a>'
+    return f'[{Book_name} {chapter_number}]({reading_link})' if link_type=='MD_external' else f'<a href="{reading_link}">{Book_name} {chapter_number}</a>' if link_type=='HTML' else reading_link
 
 def todoist_add_daily_reading(
     given_day:int=None
@@ -152,7 +162,7 @@ def todoist_add_daily_reading(
         with open(data_file_path,'w') as f:
             json.dump(data,f)
 
-CURRENT_DAY=163
+CURRENT_DAY=166
 lines=[]
 for day in range(CURRENT_DAY,CURRENT_DAY+366):
     plan_for_day=get_reading_for_day(day)
