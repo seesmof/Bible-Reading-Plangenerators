@@ -115,9 +115,9 @@ def get_formatted_link(
     Book_number:int,
     chapter_number:int,
     language:str='EN',
-    link_type:str='MD_internal',
+    link_type:str='MD_external',
 ):
-    reading_link=get_local_reading_link(Book_number,chapter_number)
+    reading_link=get_eBible_reading_link(Book_number,chapter_number)
     Book_name=Ukrainian_Book_names[Book_number] if language=='UK' else English_Book_names[Book_number]
     return f'[{Book_name} {chapter_number}]({reading_link})' if link_type=='MD_external' else f'<a href="{reading_link}">{Book_name} {chapter_number}</a>' if link_type=='HTML' else reading_link
 
