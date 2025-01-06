@@ -7,6 +7,7 @@ from data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
 from data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
 from data import BIBLE_BOOK_NUMBER_TO_SHORT_ABBREVIATION as English_Book_names
 from data import BIBLE_BOOK_NUMBER_TO_TINY_ABBREVIATION as eBible_abbreviations
+from data import BIBLE_BOOK_NUMBER_TO_GERMAN_NAME as German_Book_names
 
 root=os.path.dirname(os.path.abspath(__file__))
 results=os.path.join(root,"..","example")
@@ -111,15 +112,46 @@ def get_local_reading_link(
     ref=f'{Book_abbreviation} {chapter}'
     return f'{base}{ref}|{ref}]]'
 
+class Language:
+    EN='English'
+    UK='Ukrainian'
+    DE='German'
+
+class LinkType:
+    MDE='Markdown External'
+    MDI='Markdown Internal'
+    HTML='HTML'
+    NO='None'
+
+class LinkSource:
+    BOLLS='Bolls Life'
+    EBIBLE='eBible.org'
+    YOUVERSION='YouVersion'
+    BLB='Blue Letter Bible'
+
+class LinkBase:
+    LinkSource.BOLLS='https://bolls.life'
+    LinkSource.EBIBLE='https://ebible.org/study/?w1=bible&t1=local%3A'
+
 def get_formatted_link(
     Book_number:int,
     chapter_number:int,
-    language:str='EN',
-    link_type:str='MD_external',
+    language=Language.UK,
+    link_type=LinkType.MDE,
+    link_source=LinkSource.EBIBLE,
 ):
     reading_link=get_eBible_reading_link(Book_number,chapter_number)
-    Book_name=Ukrainian_Book_names[Book_number] if language=='UK' else English_Book_names[Book_number]
-    return f'[{Book_name} {chapter_number}]({reading_link})' if link_type=='MD_external' else f'<a href="{reading_link}">{Book_name} {chapter_number}</a>' if link_type=='HTML' else reading_link
+
+    if language==Language.UK: Book_name=Ukrainian_Book_names[Book_number]
+    elif language==Language.EN: Book_name=English_Book_names[Book_number]
+    elif language==Language.DE: Book_name=German_Book_names[Book_number]
+
+    if link_type==LinkType.MDI: link=reading_link
+    elif link_type==LinkType.MDE: link=f'[{Book_name} {chapter_number}]({reading_link})'
+    elif link_type==LinkType.HTML: link=f'<a href="{reading_link}">{Book_name} {chapter_number}</a>'
+    elif link_type==LinkType.NO: link=f'{Book_name} {chapter_number}'
+
+    return link
 
 def todoist_add_daily_reading(
     given_day:int=None
@@ -162,14 +194,14 @@ def todoist_add_daily_reading(
         with open(data_file_path,'w') as f:
             json.dump(data,f)
 
-CURRENT_DAY=166
+CURRENT_DAY=167
 lines=[]
 for day in range(CURRENT_DAY,CURRENT_DAY+366):
     plan_for_day=get_reading_for_day(day)
     for i,reading in enumerate(plan_for_day):
         Book,chapter=reading
         link=get_formatted_link(Book,chapter)
-        lines.append(link+f" день {day}" if i==0 else link)
+        lines.append(link+f" Tag {day}" if i==0 else link)
 print(f'Formed links for 365 days from day {CURRENT_DAY}')
 
 local_output_file_path=os.path.join(results,'output.txt')
