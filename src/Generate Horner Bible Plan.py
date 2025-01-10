@@ -1,23 +1,19 @@
 import os
 import json
-from todoist_api_python.api import TodoistAPI
 
-from data import HORNER_PLAN_LISTS_WITH_BOOK_NUMBERS as lists_data, TODOIST_API_KEY
-from data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
-from data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
-from data import BIBLE_BOOK_NUMBER_TO_ENGLISH_SHORT_ABBREVIATION as English_Book_names
-from data import BIBLE_BOOK_NUMBER_TO_ENGLISH_TINY_ABBREVIATION as eBible_abbreviations
-from data import BIBLE_BOOK_NUMBER_TO_GERMAN_NAME as German_Book_names
+from util.data import HORNER_PLAN_LISTS_WITH_BOOK_NUMBERS as lists_data
+from util.data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
+from util.data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
+from util.data import BIBLE_BOOK_NUMBER_TO_ENGLISH_SHORT_ABBREVIATION as English_Book_names
+from util.data import BIBLE_BOOK_NUMBER_TO_ENGLISH_TINY_ABBREVIATION as eBible_abbreviations
+from util.data import BIBLE_BOOK_NUMBER_TO_GERMAN_NAME as German_Book_names
+from util import *
 
-root=os.path.dirname(os.path.abspath(__file__))
-results=os.path.join(root,"..","example")
-data_file_path=os.path.join(root,"data.json")
-cache_file_path=os.path.join(root,"cache.json")
+cache_file_path=os.path.join(consts.code_folder_path,"cache.json")
 try:
     with open(cache_file_path,'r') as f:
         cache=json.load(f)
-except:
-    cache={}
+except: cache={}
 
 def get_next_reading_for_list(
     list_index:int,
@@ -153,47 +149,6 @@ def get_formatted_link(
 
     return link
 
-def todoist_add_daily_reading(
-    given_day:int=None
-):
-    todoist=TodoistAPI(TODOIST_API_KEY)
-    tasks=todoist.get_tasks()
-
-    def check_available_tasks(
-        task_name:str,
-        parent:int=None,
-    ):
-        return [
-            t for t in tasks 
-            if task_name in t.content 
-            and (t.parent_id==parent if parent else True)
-        ]
-    
-    def add_unique_task(
-        task_name:str,
-        parent:int=None,
-        due:str=None,
-    ):
-        duplicates=check_available_tasks(task_name,parent)
-        new_task=todoist.add_task(task_name,parent_id=parent,due_string=due) if not duplicates else duplicates[0]
-        return new_task
-    
-    with open(data_file_path,'r') as f:
-        data=json.load(f)
-    day=data['day'] if not given_day else given_day
-
-    main_task_name=f'Біблія {day}'
-    parent_id=add_unique_task(main_task_name,due='today').id
-
-    reading_list=get_reading_for_day(day)
-    for Book_number,chapter_number in reading_list:
-        add_unique_task(get_formatted_link(Book_number,chapter_number),parent_id)
-
-    if not given_day:
-        data['day']+=1
-        with open(data_file_path,'w') as f:
-            json.dump(data,f)
-
 CURRENT_DAY=167
 lines=[]
 for day in range(CURRENT_DAY,CURRENT_DAY+366):
@@ -204,9 +159,6 @@ for day in range(CURRENT_DAY,CURRENT_DAY+366):
         lines.append(link+f" день {day}" if i==0 else link)
 print(f'Formed links for 365 days from day {CURRENT_DAY}')
 
-local_output_file_path=os.path.join(results,'output.txt')
 vault_output_file_path=os.path.join(r'E:\Notatnyk\План.md')
-with open(os.path.join(results,'output.txt'),encoding='utf-8',mode='w') as local_output_file, open(vault_output_file_path,encoding='utf-8',mode='w') as vault_output_file:
-    output_lines=[l+'\n' for l in lines]
-    local_output_file.writelines(output_lines)
-    vault_output_file.writelines(output_lines)
+with open(vault_output_file_path,encoding='utf-8',mode='w') as vault_output_file:
+    vault_output_file.write('\n'.join(lines))
