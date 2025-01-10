@@ -1,1 +1,0 @@
-print("JESUS IS LORD")

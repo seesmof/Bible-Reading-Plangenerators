@@ -2,11 +2,11 @@ import os
 import json
 from todoist_api_python.api import TodoistAPI
 
-from data import PLAN_LISTS_WITH_BOOK_NUMBERS as lists_data, TODOIST_API_KEY
+from data import HORNER_PLAN_LISTS_WITH_BOOK_NUMBERS as lists_data, TODOIST_API_KEY
 from data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
 from data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
-from data import BIBLE_BOOK_NUMBER_TO_SHORT_ABBREVIATION as English_Book_names
-from data import BIBLE_BOOK_NUMBER_TO_TINY_ABBREVIATION as eBible_abbreviations
+from data import BIBLE_BOOK_NUMBER_TO_ENGLISH_SHORT_ABBREVIATION as English_Book_names
+from data import BIBLE_BOOK_NUMBER_TO_ENGLISH_TINY_ABBREVIATION as eBible_abbreviations
 from data import BIBLE_BOOK_NUMBER_TO_GERMAN_NAME as German_Book_names
 
 root=os.path.dirname(os.path.abspath(__file__))
@@ -201,7 +201,7 @@ for day in range(CURRENT_DAY,CURRENT_DAY+366):
     for i,reading in enumerate(plan_for_day):
         Book,chapter=reading
         link=get_formatted_link(Book,chapter)
-        lines.append(link+f" Tag {day}" if i==0 else link)
+        lines.append(link+f" день {day}" if i==0 else link)
 print(f'Formed links for 365 days from day {CURRENT_DAY}')
 
 local_output_file_path=os.path.join(results,'output.txt')
