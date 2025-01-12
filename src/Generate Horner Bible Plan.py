@@ -9,12 +9,6 @@ from util.data import BIBLE_BOOK_NUMBER_TO_ENGLISH_TINY_ABBREVIATION as eBible_a
 from util.data import BIBLE_BOOK_NUMBER_TO_GERMAN_NAME as German_Book_names
 from util import *
 
-cache_file_path=os.path.join(consts.code_folder_path,"cache.json")
-try:
-    with open(cache_file_path,'r') as f:
-        cache=json.load(f)
-except: cache={}
-
 def get_next_reading_for_list(
     list_index:int,
     Book_index:int,
@@ -54,24 +48,30 @@ def get_next_reading_for_list(
 def get_reading_for_day(
     day_number:int,
 ):
-    if cache.get(str(day_number)) and day_number:
-        return cache[str(day_number)]
-
     # Will be forming a list of tuples
     # Each tuple will contain: Bible Book Number, and a Chapter Number
     reading_data=[]
-    previous_day_data=cache[str(day_number-1)]
 
     # Form readings for of the 10 lists
     for list_index in range(10):
-        list_data=lists_data[list_index]
-        Book_number,chapter_number=previous_day_data[list_index]
-        Book_index=list_data.index(Book_number)
-        Book_index,chapter_number=get_next_reading_for_list(list_index,Book_index,chapter_number)
-        reading_data.append((list_data[Book_index],chapter_number))
+        # Keep track of current day, start with 0
+        current_day=0
+        # Initialize Book Index and Chapter Number to zeros
+        Book_index,chapter_number=0,0
 
-    if day_number not in cache.keys() and day_number:
-        cache[str(day_number)]=reading_data
+        # Keep getting readings for next day until we reach the target day
+        while current_day!=day_number:
+            # Update Book Index and Chapter Number with each iteration
+            Book_index,chapter_number=get_next_reading_for_list(list_index,Book_index,chapter_number)
+            
+            # Move to the next day
+            current_day+=1
+            # Now check if we reached our target day
+            if current_day==day_number:
+                # Then form a Book Number by first getting the current list, then selected the current Book by index
+                Book_number=lists_data[list_index][Book_index]
+                # Add Book Number and Chapter Number to the Reading List
+                reading_data.append((Book_number,chapter_number))
     
     # And return the formed list
     return reading_data
@@ -149,7 +149,7 @@ def get_formatted_link(
 
     return link
 
-CURRENT_DAY=167
+CURRENT_DAY=179
 lines=[]
 for day in range(CURRENT_DAY,CURRENT_DAY+366):
     plan_for_day=get_reading_for_day(day)
@@ -160,5 +160,8 @@ for day in range(CURRENT_DAY,CURRENT_DAY+366):
 print(f'Formed links for 365 days from day {CURRENT_DAY}')
 
 vault_output_file_path=os.path.join(r'E:\Notatnyk\План.md')
+local_output_file_path=os.path.join(root_folder_path,'output.md')
 with open(vault_output_file_path,encoding='utf-8',mode='w') as vault_output_file:
     vault_output_file.write('\n'.join(lines))
+with open(local_output_file_path,encoding='utf-8',mode='w') as f:
+    f.write('\n'.join(lines))
