@@ -149,7 +149,7 @@ def get_formatted_link(
 
     return link
 
-CURRENT_DAY=179
+CURRENT_DAY=183
 lines=[]
 for day in range(CURRENT_DAY,CURRENT_DAY+366):
     plan_for_day=get_reading_for_day(day)
