@@ -5,5 +5,3 @@ From some of his sermons, pastor John MacArthur recommended reading the Holy Bib
 '''
 
 from util import *
-
-print(consts.code_folder_path)
