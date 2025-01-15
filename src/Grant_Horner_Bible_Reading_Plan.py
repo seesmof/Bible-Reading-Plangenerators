@@ -9,7 +9,7 @@ from util.const import BIBLE_BOOK_NUMBER_TO_GERMAN_NAME as German_Book_names
 from util.const import CUSTOM_HORNER_PLAN_LISTS as lists_data
 import util
 
-def get_list_next_reading(
+def get_next_reading_for_list(
     list_index:int,
     Book_index:int,
     chapter_number:int
@@ -62,7 +62,7 @@ def get_reading_for_day(
         # Keep getting readings for next day until we reach the target day
         while current_day!=day_number:
             # Update Book Index and Chapter Number with each iteration
-            Book_index,chapter_number=get_list_next_reading(list_index,Book_index,chapter_number)
+            Book_index,chapter_number=get_next_reading_for_list(list_index,Book_index,chapter_number)
             
             # Move to the next day
             current_day+=1
