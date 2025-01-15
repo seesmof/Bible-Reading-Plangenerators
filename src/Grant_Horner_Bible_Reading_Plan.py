@@ -108,6 +108,7 @@ def get_local_reading_link(
     ref=f'{Book_abbreviation} {chapter}'
     return f'{base}{ref}|{ref}]]'
 
+'''
 def get_formatted_link(
     Book_number:int,
     chapter_number:int,
@@ -127,20 +128,15 @@ def get_formatted_link(
     elif link_type==LinkType.NO: link=f'{Book_name} {chapter_number}'
 
     return link
+'''
 
-CURRENT_DAY=183
-lines=[]
-for day in range(CURRENT_DAY,CURRENT_DAY+366):
-    plan_for_day=get_reading_for_day(day)
-    for i,reading in enumerate(plan_for_day):
-        Book,chapter=reading
-        link=get_formatted_link(Book,chapter)
-        lines.append(link+f" день {day}" if i==0 else link)
-print(f'Formed links for 365 days from day {CURRENT_DAY}')
+data_file_path=os.path.join(util.code_folder_path,'data.json')
+try:
+    with open(data_file_path,encoding='utf-8',mode='r') as f:
+        program_data=json.load(f)
+except: program_data=dict()
 
-vault_output_file_path=os.path.join(r'E:\Notatnyk\План.md')
-local_output_file_path=os.path.join(util.code_folder_path,'output.md')
-with open(vault_output_file_path,encoding='utf-8',mode='w') as vault_output_file:
-    vault_output_file.write('\n'.join(lines))
-with open(local_output_file_path,encoding='utf-8',mode='w') as f:
-    f.write('\n'.join(lines))
+program_data['current_day']=190
+
+with open(data_file_path,encoding='utf-8',mode='w') as f:
+    json.dump(program_data,f)
