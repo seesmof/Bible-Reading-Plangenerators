@@ -1,15 +1,14 @@
-import os
 import json
+import os
 
-from util.data import HORNER_PLAN_LISTS_WITH_BOOK_NUMBERS as lists_data
-from util.data import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
-from util.data import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
-from util.data import BIBLE_BOOK_NUMBER_TO_ENGLISH_SHORT_ABBREVIATION as English_Book_names
-from util.data import BIBLE_BOOK_NUMBER_TO_ENGLISH_TINY_ABBREVIATION as eBible_abbreviations
-from util.data import BIBLE_BOOK_NUMBER_TO_GERMAN_NAME as German_Book_names
-from util import *
+from util.const import BIBLE_BOOK_NUMBER_TO_ENGLISH_TINY_ABBREVIATION as eBible_abbreviations
+from util.const import BIBLE_BOOK_NUMBER_TO_ENGLISH_SHORT_ABBREVIATION as English_Book_names
+from util.const import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
+from util.const import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
+from util.const import BIBLE_BOOK_NUMBER_TO_GERMAN_NAME as German_Book_names
+from util.const import CUSTOM_HORNER_PLAN_LISTS as lists_data
 
-def get_next_reading_for_list(
+def get_list_next_reading(
     list_index:int,
     Book_index:int,
     chapter_number:int
@@ -62,7 +61,7 @@ def get_reading_for_day(
         # Keep getting readings for next day until we reach the target day
         while current_day!=day_number:
             # Update Book Index and Chapter Number with each iteration
-            Book_index,chapter_number=get_next_reading_for_list(list_index,Book_index,chapter_number)
+            Book_index,chapter_number=get_list_next_reading(list_index,Book_index,chapter_number)
             
             # Move to the next day
             current_day+=1
@@ -107,27 +106,6 @@ def get_local_reading_link(
     Book_abbreviation=English_Book_names[Book]
     ref=f'{Book_abbreviation} {chapter}'
     return f'{base}{ref}|{ref}]]'
-
-class Language:
-    EN='English'
-    UK='Ukrainian'
-    DE='German'
-
-class LinkType:
-    MDE='Markdown External'
-    MDI='Markdown Internal'
-    HTML='HTML'
-    NO='None'
-
-class LinkSource:
-    BOLLS='Bolls Life'
-    EBIBLE='eBible.org'
-    YOUVERSION='YouVersion'
-    BLB='Blue Letter Bible'
-
-class LinkBase:
-    LinkSource.BOLLS='https://bolls.life'
-    LinkSource.EBIBLE='https://ebible.org/study/?w1=bible&t1=local%3A'
 
 def get_formatted_link(
     Book_number:int,
