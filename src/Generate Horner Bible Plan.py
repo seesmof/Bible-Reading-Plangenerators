@@ -7,6 +7,7 @@ from util.const import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_nam
 from util.const import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
 from util.const import BIBLE_BOOK_NUMBER_TO_GERMAN_NAME as German_Book_names
 from util.const import CUSTOM_HORNER_PLAN_LISTS as lists_data
+import util
 
 def get_list_next_reading(
     list_index:int,
@@ -138,7 +139,7 @@ for day in range(CURRENT_DAY,CURRENT_DAY+366):
 print(f'Formed links for 365 days from day {CURRENT_DAY}')
 
 vault_output_file_path=os.path.join(r'E:\Notatnyk\План.md')
-local_output_file_path=os.path.join(root_folder_path,'output.md')
+local_output_file_path=os.path.join(util.code_folder_path,'output.md')
 with open(vault_output_file_path,encoding='utf-8',mode='w') as vault_output_file:
     vault_output_file.write('\n'.join(lines))
 with open(local_output_file_path,encoding='utf-8',mode='w') as f:
