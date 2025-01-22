@@ -27,16 +27,41 @@ for k,v in smaller_Books.items():
 print()
 bigger_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v>6}
 for k,v in bigger_Books.items():
-    Book_reference=f"{Book_names[k]} {v}"
-    link=get_eBible_reading_link(k,1)
-    markdown_link=f'[{Book_reference}]({link})'
-    # lines.append(markdown_link)
-
+    c=1
     print(Book_names[k],v)
-    if v//2>6:
-        if v//3>6:
-            if v//4>6:
-                print(v//4,5)
+    if v//3>7:
+        frac=v//4
+        ov=v
+        print(4,Book_names[k],v,frac)
+        for _ in range(4):
+            link=get_eBible_reading_link(k,c)
+            markdown_link=f'[{Book_names[k]} {c}-{c-1+frac if c+frac<ov else ov}]({link})'
+            local=[markdown_link for _ in range(1,REPEAT_BOOK_TIMES+1)]
+            lines.append('\n'.join(local))
+            c+=frac
+            v-=c
+    elif v//2>7:
+        frac=v//3
+        ov=v
+        print(3,Book_names[k],v,frac)
+        for _ in range(3):
+            link=get_eBible_reading_link(k,c)
+            markdown_link=f'[{Book_names[k]} {c}-{c-1+frac if c+frac<ov else ov}]({link})'
+            local=[markdown_link for _ in range(1,REPEAT_BOOK_TIMES+1)]
+            lines.append('\n'.join(local))
+            c+=frac
+            v-=c
+    else:
+        frac=v//2
+        ov=v
+        print(2,Book_names[k],v,frac)
+        for _ in range(2):
+            link=get_eBible_reading_link(k,c)
+            markdown_link=f'[{Book_names[k]} {c}-{c-1+frac if c+frac<ov else ov}]({link})'
+            local=[markdown_link for _ in range(1,REPEAT_BOOK_TIMES+1)]
+            lines.append('\n'.join(local))
+            c+=frac
+            v-=c
 
 target_file=os.path.join(root_folder_path,'out.md')
 try:
