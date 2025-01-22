@@ -14,15 +14,24 @@ only_New_Testament={k:v for k,v in chapters_data.items() if k>=40}
 from_least_to_most_chapters=sorted(only_New_Testament.items(),key=lambda d:d[-1])
 from_least_to_most_chapters_dict=dict(from_least_to_most_chapters)
 
+lines=[]
+REPEAT_BOOK_TIMES=33
+
 smaller_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v<=6}
 for k,v in smaller_Books.items():
-    print(Book_names[k],v)
+    Book_reference=f"{Book_names[k]} {v}"
     link=get_eBible_reading_link(k,1)
-    print(link)
+    markdown_link=f'[{Book_reference}]({link})'
+    lines.append(markdown_link)
 
 print()
 bigger_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v>6}
 for k,v in bigger_Books.items():
+    Book_reference=f"{Book_names[k]} {v}"
+    link=get_eBible_reading_link(k,1)
+    markdown_link=f'[{Book_reference}]({link})'
+    lines.append(markdown_link)
+
     print(Book_names[k],v)
     if v//2>6:
         if v//3>6:
