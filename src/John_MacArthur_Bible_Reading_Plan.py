@@ -5,16 +5,26 @@ From some of his sermons, pastor John MacArthur recommended reading the Holy Bib
 '''
 
 from util import *
+from Grant_Horner_Bible_Reading_Plan import get_eBible_reading_link
 
 from util.const import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapters_data
 from util.const import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Book_names
 
-only_New_Testament=[e for e in chapters_data.items() if e[0]>=40]
-only_New_Testament_dict=dict(only_New_Testament)
-from_least_to_most_chapters=sorted(only_New_Testament_dict.items(),key=lambda d:d[-1])
+only_New_Testament={k:v for k,v in chapters_data.items() if k>=40}
+from_least_to_most_chapters=sorted(only_New_Testament.items(),key=lambda d:d[-1])
 from_least_to_most_chapters_dict=dict(from_least_to_most_chapters)
 
-'''
-for k,v in from_least_to_most_chapters_dict.items():
+smaller_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v<=6}
+for k,v in smaller_Books.items():
     print(Book_names[k],v)
-'''
+    link=get_eBible_reading_link(k,1)
+    print(link)
+
+print()
+bigger_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v>6}
+for k,v in bigger_Books.items():
+    print(Book_names[k],v)
+    if v//2>6:
+        if v//3>6:
+            if v//4>6:
+                print(v//4,5)
