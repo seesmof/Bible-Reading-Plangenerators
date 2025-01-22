@@ -19,10 +19,10 @@ REPEAT_BOOK_TIMES=33
 
 smaller_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v<=6}
 for k,v in smaller_Books.items():
-    Book_reference=f"{Book_names[k]} {v}"
     link=get_eBible_reading_link(k,1)
-    markdown_link=f'[{Book_reference}]({link})'
-    lines.append(markdown_link)
+    markdown_link=f'[{Book_names[k]}]({link})'
+    local=[markdown_link for _ in range(1,REPEAT_BOOK_TIMES+1)]
+    lines.append('\n'.join(local))
 
 print()
 bigger_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v>6}
@@ -30,10 +30,16 @@ for k,v in bigger_Books.items():
     Book_reference=f"{Book_names[k]} {v}"
     link=get_eBible_reading_link(k,1)
     markdown_link=f'[{Book_reference}]({link})'
-    lines.append(markdown_link)
+    # lines.append(markdown_link)
 
     print(Book_names[k],v)
     if v//2>6:
         if v//3>6:
             if v//4>6:
                 print(v//4,5)
+
+target_file=os.path.join(root_folder_path,'out.md')
+try:
+    with open(target_file,encoding='utf-8',mode='w') as f:
+        f.write('\n'.join(lines))
+except: pass
