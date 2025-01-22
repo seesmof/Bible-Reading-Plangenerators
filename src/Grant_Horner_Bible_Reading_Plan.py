@@ -137,6 +137,7 @@ try:
 except: program_data=dict()
 
 program_data['current_day']=190
+# restore the code that was here once 
 
 with open(data_file_path,encoding='utf-8',mode='w') as f:
     json.dump(program_data,f)
