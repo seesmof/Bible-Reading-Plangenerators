@@ -33,7 +33,7 @@ for Book_number,chapters_count in bigger_Books.items():
     number_of_chapters_for_this_Book=chapters_count
     amount_of_chapters_to_read=chapters_count//4 if chapters_count//3>MAX_CONSECUTIVE_CHAPTERS else chapters_count//3 if chapters_count//2>MAX_CONSECUTIVE_CHAPTERS else chapters_count//2
 
-    for _ in range(4 if chapters_count//3>MAX_CONSECUTIVE_CHAPTERS else 3 if chapters_count//2>MAX_CONSECUTIVE_CHAPTERS else 2):
+    for _ in range(4 if chapters_count//3>MAX_CONSECUTIVE_CHAPTERS else 3 if chapters_count//2>MAX_CONSECUTIVE_CHAPTERS else 2 if number_of_chapters_for_this_Book>=MAX_CONSECUTIVE_CHAPTERS else 1):
         link=get_eBible_reading_link(Book_number,current_chapter)
         markdown_link=f'[{Book_names[Book_number]} {current_chapter}-{current_chapter-1+amount_of_chapters_to_read if current_chapter+amount_of_chapters_to_read<number_of_chapters_for_this_Book else number_of_chapters_for_this_Book}]({link})'
         local=[markdown_link+f' {reading_counter}' for reading_counter in range(1,REPEAT_BOOK_TIMES+1)]
