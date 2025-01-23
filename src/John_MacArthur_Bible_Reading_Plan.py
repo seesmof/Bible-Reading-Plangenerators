@@ -2,6 +2,8 @@
 JESUS CHRIST IS LORD
 
 From some of his sermons, pastor John MacArthur recommended reading the Holy Bible in this way: for the Old Testament to read simply from Genesis until Matthew chapter by chapter; for the New Testament to read one smaller Book for a month reading It each day, and then moving onto a larger Book, dividing it into smaller parts and reading those parts each for 30 days. He recommended starting with 1 John, then moving onto John (3 times reading 7 new chapters for 30 days each), then Philippians, and then go to Matthew, then to Colossians, then to Acts, and so on.
+
+This program focuses specifically on the New Testament, because it's not as easy to set up as the Old Testament reading. When run, it should generate the complete New Testament Bible reading plan with each section repeating 33 times. Sections might be entire books (if under 7 chapters long) or parts of larger Books. The entire plan should take a bit over 4 years to complete if reading one reading per day.
 '''
 
 from util import *
