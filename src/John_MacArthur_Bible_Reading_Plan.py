@@ -18,27 +18,26 @@ lines=[]
 REPEAT_BOOK_TIMES=33
 
 smaller_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v<=6}
-for k,v in smaller_Books.items():
-    link=get_eBible_reading_link(k,1)
-    markdown_link=f'[{Book_names[k]} 1-{v}]({link})' if v>1 else f'[{Book_names[k]} 1]({link})'
-    local=[markdown_link for _ in range(1,REPEAT_BOOK_TIMES+1)]
+for Book_number,chapters_count in smaller_Books.items():
+    link=get_eBible_reading_link(Book_number,1)
+    markdown_link=f'[{Book_names[Book_number]} 1-{chapters_count}]({link})' if chapters_count>1 else f'[{Book_names[Book_number]} 1]({link})'
+    local=[markdown_link+f' {reading_counter}' for reading_counter in range(1,REPEAT_BOOK_TIMES+1)]
     lines.append('\n'.join(local))
 
 MAX_CONSECUTIVE_CHAPTERS=7
 bigger_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v>6}
-for k,v in bigger_Books.items():
-    c=1
-    ov=v
+for Book_number,chapters_count in bigger_Books.items():
+    current_chapter=1
+    number_of_chapters_for_this_Book=chapters_count
+    amount_of_chapters_to_read=chapters_count//4 if chapters_count//3>MAX_CONSECUTIVE_CHAPTERS else chapters_count//3 if chapters_count//2>MAX_CONSECUTIVE_CHAPTERS else chapters_count//2
 
-    frac=v//4 if v//3>MAX_CONSECUTIVE_CHAPTERS else v//3 if v//2>MAX_CONSECUTIVE_CHAPTERS else v//2
-
-    for _ in range(4 if v//3>MAX_CONSECUTIVE_CHAPTERS else 3 if v//2>MAX_CONSECUTIVE_CHAPTERS else 2):
-        link=get_eBible_reading_link(k,c)
-        markdown_link=f'[{Book_names[k]} {c}-{c-1+frac if c+frac<ov else ov}]({link})'
-        local=[markdown_link for _ in range(1,REPEAT_BOOK_TIMES+1)]
+    for _ in range(4 if chapters_count//3>MAX_CONSECUTIVE_CHAPTERS else 3 if chapters_count//2>MAX_CONSECUTIVE_CHAPTERS else 2):
+        link=get_eBible_reading_link(Book_number,current_chapter)
+        markdown_link=f'[{Book_names[Book_number]} {current_chapter}-{current_chapter-1+amount_of_chapters_to_read if current_chapter+amount_of_chapters_to_read<number_of_chapters_for_this_Book else number_of_chapters_for_this_Book}]({link})'
+        local=[markdown_link+f' {reading_counter}' for reading_counter in range(1,REPEAT_BOOK_TIMES+1)]
         lines.append('\n'.join(local))
-        c+=frac
-        v-=c
+        current_chapter+=amount_of_chapters_to_read
+        chapters_count-=current_chapter
 
 target_file=os.path.join(root_folder_path,'out.md')
 try:
