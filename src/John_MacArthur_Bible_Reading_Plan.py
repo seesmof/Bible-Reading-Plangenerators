@@ -20,11 +20,10 @@ REPEAT_BOOK_TIMES=33
 smaller_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v<=6}
 for k,v in smaller_Books.items():
     link=get_eBible_reading_link(k,1)
-    markdown_link=f'[{Book_names[k]} {1}-{v}]({link})'
+    markdown_link=f'[{Book_names[k]} 1-{v}]({link})' if v>1 else f'[{Book_names[k]} 1]({link})'
     local=[markdown_link for _ in range(1,REPEAT_BOOK_TIMES+1)]
     lines.append('\n'.join(local))
 
-print()
 bigger_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v>6}
 for k,v in bigger_Books.items():
     c=1
