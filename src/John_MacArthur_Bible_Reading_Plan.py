@@ -18,16 +18,16 @@ from_least_to_most_chapters_dict=dict(from_least_to_most_chapters)
 
 lines=[]
 REPEAT_BOOK_TIMES=33
+MAX_CONSECUTIVE_CHAPTERS=7
 
-smaller_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v<=6}
+smaller_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v<MAX_CONSECUTIVE_CHAPTERS}
 for Book_number,chapters_count in smaller_Books.items():
     link=get_eBible_reading_link(Book_number,1)
     markdown_link=f'[{Book_names[Book_number]} 1-{chapters_count}]({link})' if chapters_count>1 else f'[{Book_names[Book_number]} 1]({link})'
     local=[markdown_link+f' {reading_counter}' for reading_counter in range(1,REPEAT_BOOK_TIMES+1)]
     lines.append('\n'.join(local))
 
-MAX_CONSECUTIVE_CHAPTERS=7
-bigger_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v>6}
+bigger_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v>=MAX_CONSECUTIVE_CHAPTERS}
 for Book_number,chapters_count in bigger_Books.items():
     current_chapter=1
     number_of_chapters_for_this_Book=chapters_count
