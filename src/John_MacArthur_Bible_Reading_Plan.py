@@ -32,30 +32,13 @@ for k,v in bigger_Books.items():
 
     frac=v//4 if v//3>MAX_CONSECUTIVE_CHAPTERS else v//3 if v//2>MAX_CONSECUTIVE_CHAPTERS else v//2
 
-    if v//3>7:
-        for _ in range(4):
-            link=get_eBible_reading_link(k,c)
-            markdown_link=f'[{Book_names[k]} {c}-{c-1+frac if c+frac<ov else ov}]({link})'
-            local=[markdown_link for _ in range(1,REPEAT_BOOK_TIMES+1)]
-            lines.append('\n'.join(local))
-            c+=frac
-            v-=c
-    elif v//2>7:
-        for _ in range(3):
-            link=get_eBible_reading_link(k,c)
-            markdown_link=f'[{Book_names[k]} {c}-{c-1+frac if c+frac<ov else ov}]({link})'
-            local=[markdown_link for _ in range(1,REPEAT_BOOK_TIMES+1)]
-            lines.append('\n'.join(local))
-            c+=frac
-            v-=c
-    else:
-        for _ in range(2):
-            link=get_eBible_reading_link(k,c)
-            markdown_link=f'[{Book_names[k]} {c}-{c-1+frac if c+frac<ov else ov}]({link})'
-            local=[markdown_link for _ in range(1,REPEAT_BOOK_TIMES+1)]
-            lines.append('\n'.join(local))
-            c+=frac
-            v-=c
+    for _ in range(4 if v//3>MAX_CONSECUTIVE_CHAPTERS else 3 if v//2>MAX_CONSECUTIVE_CHAPTERS else 2):
+        link=get_eBible_reading_link(k,c)
+        markdown_link=f'[{Book_names[k]} {c}-{c-1+frac if c+frac<ov else ov}]({link})'
+        local=[markdown_link for _ in range(1,REPEAT_BOOK_TIMES+1)]
+        lines.append('\n'.join(local))
+        c+=frac
+        v-=c
 
 target_file=os.path.join(root_folder_path,'out.md')
 try:
