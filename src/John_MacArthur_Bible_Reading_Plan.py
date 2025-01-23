@@ -24,12 +24,15 @@ for k,v in smaller_Books.items():
     local=[markdown_link for _ in range(1,REPEAT_BOOK_TIMES+1)]
     lines.append('\n'.join(local))
 
+MAX_CONSECUTIVE_CHAPTERS=7
 bigger_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v>6}
 for k,v in bigger_Books.items():
     c=1
     ov=v
+
+    frac=v//4 if v//3>MAX_CONSECUTIVE_CHAPTERS else v//3 if v//2>MAX_CONSECUTIVE_CHAPTERS else v//2
+
     if v//3>7:
-        frac=v//4
         for _ in range(4):
             link=get_eBible_reading_link(k,c)
             markdown_link=f'[{Book_names[k]} {c}-{c-1+frac if c+frac<ov else ov}]({link})'
@@ -38,7 +41,6 @@ for k,v in bigger_Books.items():
             c+=frac
             v-=c
     elif v//2>7:
-        frac=v//3
         for _ in range(3):
             link=get_eBible_reading_link(k,c)
             markdown_link=f'[{Book_names[k]} {c}-{c-1+frac if c+frac<ov else ov}]({link})'
@@ -47,7 +49,6 @@ for k,v in bigger_Books.items():
             c+=frac
             v-=c
     else:
-        frac=v//2
         for _ in range(2):
             link=get_eBible_reading_link(k,c)
             markdown_link=f'[{Book_names[k]} {c}-{c-1+frac if c+frac<ov else ov}]({link})'
