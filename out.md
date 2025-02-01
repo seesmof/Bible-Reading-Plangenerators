@@ -1,1584 +1,1189 @@
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 1
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 2
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 3
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 4
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 5
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 6
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 7
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 8
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 9
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 10
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 11
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 12
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 13
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 14
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 15
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 16
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 17
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 18
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 19
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 20
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 21
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 22
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 23
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 24
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 25
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 26
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 27
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 28
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 29
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 30
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 31
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 32
-[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PM1) 33
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 1
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 2
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 3
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 4
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 5
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 6
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 7
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 8
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 9
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 10
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 11
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 12
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 13
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 14
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 15
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 16
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 17
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 18
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 19
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 20
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 21
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 22
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 23
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 24
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 25
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 26
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 27
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 28
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 29
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 30
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 31
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 32
-[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J21) 33
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 1
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 2
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 3
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 4
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 5
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 6
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 7
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 8
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 9
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 10
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 11
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 12
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 13
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 14
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 15
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 16
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 17
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 18
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 19
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 20
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 21
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 22
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 23
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 24
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 25
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 26
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 27
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 28
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 29
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 30
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 31
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 32
-[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J31) 33
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 1
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 2
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 3
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 4
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 5
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 6
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 7
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 8
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 9
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 10
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 11
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 12
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 13
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 14
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 15
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 16
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 17
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 18
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 19
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 20
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 21
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 22
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 23
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 24
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 25
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 26
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 27
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 28
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 29
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 30
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 31
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 32
-[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JD1) 33
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 1
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 2
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 3
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 4
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 5
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 6
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 7
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 8
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 9
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 10
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 11
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 12
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 13
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 14
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 15
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 16
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 17
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 18
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 19
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 20
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 21
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 22
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 23
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 24
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 25
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 26
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 27
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 28
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 29
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 30
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 31
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 32
-[2 Солунян 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H21) 33
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 1
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 2
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 3
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 4
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 5
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 6
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 7
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 8
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 9
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 10
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 11
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 12
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 13
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 14
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 15
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 16
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 17
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 18
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 19
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 20
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 21
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 22
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 23
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 24
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 25
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 26
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 27
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 28
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 29
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 30
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 31
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 32
-[Тита 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=TT1) 33
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 1
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 2
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 3
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 4
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 5
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 6
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 7
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 8
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 9
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 10
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 11
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 12
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 13
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 14
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 15
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 16
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 17
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 18
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 19
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 20
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 21
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 22
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 23
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 24
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 25
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 26
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 27
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 28
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 29
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 30
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 31
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 32
-[2 Петра 1-3](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P21) 33
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 1
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 2
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 3
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 4
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 5
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 6
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 7
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 8
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 9
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 10
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 11
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 12
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 13
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 14
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 15
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 16
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 17
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 18
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 19
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 20
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 21
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 22
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 23
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 24
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 25
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 26
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 27
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 28
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 29
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 30
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 31
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 32
-[Филипян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=PP1) 33
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 1
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 2
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 3
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 4
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 5
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 6
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 7
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 8
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 9
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 10
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 11
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 12
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 13
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 14
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 15
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 16
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 17
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 18
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 19
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 20
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 21
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 22
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 23
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 24
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 25
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 26
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 27
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 28
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 29
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 30
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 31
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 32
-[Колосян 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=CL1) 33
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 1
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 2
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 3
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 4
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 5
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 6
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 7
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 8
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 9
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 10
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 11
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 12
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 13
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 14
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 15
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 16
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 17
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 18
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 19
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 20
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 21
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 22
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 23
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 24
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 25
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 26
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 27
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 28
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 29
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 30
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 31
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 32
-[2 Тимотея 1-4](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T21) 33
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 1
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 2
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 3
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 4
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 5
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 6
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 7
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 8
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 9
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 10
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 11
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 12
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 13
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 14
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 15
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 16
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 17
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 18
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 19
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 20
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 21
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 22
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 23
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 24
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 25
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 26
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 27
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 28
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 29
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 30
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 31
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 32
-[1 Солунян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=H11) 33
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 1
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 2
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 3
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 4
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 5
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 6
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 7
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 8
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 9
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 10
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 11
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 12
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 13
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 14
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 15
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 16
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 17
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 18
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 19
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 20
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 21
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 22
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 23
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 24
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 25
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 26
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 27
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 28
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 29
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 30
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 31
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 32
-[Якова 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JM1) 33
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 1
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 2
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 3
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 4
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 5
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 6
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 7
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 8
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 9
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 10
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 11
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 12
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 13
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 14
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 15
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 16
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 17
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 18
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 19
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 20
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 21
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 22
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 23
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 24
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 25
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 26
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 27
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 28
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 29
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 30
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 31
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 32
-[1 Петра 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=P11) 33
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 1
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 2
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 3
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 4
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 5
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 6
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 7
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 8
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 9
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 10
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 11
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 12
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 13
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 14
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 15
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 16
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 17
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 18
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 19
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 20
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 21
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 22
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 23
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 24
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 25
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 26
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 27
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 28
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 29
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 30
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 31
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 32
-[1 Йоана 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=J11) 33
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 1
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 2
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 3
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 4
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 5
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 6
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 7
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 8
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 9
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 10
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 11
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 12
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 13
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 14
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 15
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 16
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 17
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 18
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 19
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 20
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 21
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 22
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 23
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 24
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 25
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 26
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 27
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 28
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 29
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 30
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 31
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 32
-[Галат 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=GL1) 33
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 1
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 2
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 3
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 4
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 5
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 6
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 7
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 8
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 9
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 10
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 11
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 12
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 13
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 14
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 15
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 16
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 17
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 18
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 19
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 20
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 21
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 22
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 23
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 24
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 25
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 26
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 27
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 28
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 29
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 30
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 31
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 32
-[Єфесян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=EP1) 33
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 1
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 2
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 3
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 4
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 5
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 6
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 7
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 8
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 9
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 10
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 11
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 12
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 13
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 14
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 15
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 16
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 17
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 18
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 19
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 20
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 21
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 22
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 23
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 24
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 25
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 26
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 27
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 28
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 29
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 30
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 31
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 32
-[1 Тимотея 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=T11) 33
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 1
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 2
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 3
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 4
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 5
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 6
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 7
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 8
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 9
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 10
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 11
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 12
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 13
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 14
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 15
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 16
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 17
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 18
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 19
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 20
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 21
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 22
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 23
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 24
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 25
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 26
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 27
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 28
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 29
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 30
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 31
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 32
-[2 Коринтян 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C21) 33
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 1
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 2
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 3
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 4
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 5
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 6
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 7
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 8
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 9
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 10
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 11
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 12
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 13
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 14
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 15
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 16
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 17
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 18
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 19
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 20
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 21
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 22
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 23
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 24
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 25
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 26
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 27
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 28
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 29
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 30
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 31
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 32
-[2 Коринтян 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C27) 33
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 1
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 2
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 3
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 4
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 5
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 6
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 7
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 8
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 9
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 10
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 11
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 12
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 13
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 14
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 15
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 16
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 17
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 18
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 19
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 20
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 21
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 22
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 23
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 24
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 25
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 26
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 27
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 28
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 29
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 30
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 31
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 32
-[Жидів 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB1) 33
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 1
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 2
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 3
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 4
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 5
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 6
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 7
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 8
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 9
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 10
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 11
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 12
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 13
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 14
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 15
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 16
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 17
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 18
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 19
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 20
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 21
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 22
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 23
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 24
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 25
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 26
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 27
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 28
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 29
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 30
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 31
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 32
-[Жидів 7-13](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=HB7) 33
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 1
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 2
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 3
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 4
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 5
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 6
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 7
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 8
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 9
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 10
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 11
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 12
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 13
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 14
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 15
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 16
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 17
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 18
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 19
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 20
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 21
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 22
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 23
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 24
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 25
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 26
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 27
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 28
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 29
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 30
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 31
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 32
-[Марка 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK1) 33
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 1
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 2
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 3
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 4
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 5
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 6
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 7
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 8
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 9
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 10
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 11
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 12
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 13
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 14
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 15
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 16
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 17
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 18
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 19
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 20
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 21
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 22
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 23
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 24
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 25
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 26
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 27
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 28
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 29
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 30
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 31
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 32
-[Марка 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK6) 33
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 1
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 2
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 3
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 4
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 5
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 6
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 7
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 8
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 9
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 10
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 11
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 12
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 13
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 14
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 15
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 16
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 17
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 18
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 19
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 20
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 21
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 22
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 23
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 24
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 25
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 26
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 27
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 28
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 29
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 30
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 31
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 32
-[Марка 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MK11) 33
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 1
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 2
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 3
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 4
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 5
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 6
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 7
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 8
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 9
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 10
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 11
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 12
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 13
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 14
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 15
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 16
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 17
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 18
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 19
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 20
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 21
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 22
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 23
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 24
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 25
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 26
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 27
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 28
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 29
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 30
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 31
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 32
-[Римлян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM1) 33
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 1
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 2
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 3
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 4
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 5
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 6
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 7
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 8
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 9
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 10
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 11
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 12
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 13
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 14
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 15
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 16
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 17
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 18
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 19
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 20
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 21
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 22
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 23
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 24
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 25
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 26
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 27
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 28
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 29
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 30
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 31
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 32
-[Римлян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM6) 33
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 1
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 2
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 3
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 4
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 5
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 6
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 7
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 8
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 9
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 10
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 11
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 12
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 13
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 14
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 15
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 16
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 17
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 18
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 19
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 20
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 21
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 22
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 23
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 24
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 25
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 26
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 27
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 28
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 29
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 30
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 31
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 32
-[Римлян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RM11) 33
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 1
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 2
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 3
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 4
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 5
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 6
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 7
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 8
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 9
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 10
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 11
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 12
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 13
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 14
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 15
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 16
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 17
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 18
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 19
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 20
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 21
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 22
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 23
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 24
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 25
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 26
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 27
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 28
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 29
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 30
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 31
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 32
-[1 Коринтян 1-5](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C11) 33
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 1
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 2
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 3
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 4
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 5
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 6
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 7
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 8
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 9
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 10
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 11
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 12
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 13
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 14
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 15
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 16
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 17
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 18
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 19
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 20
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 21
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 22
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 23
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 24
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 25
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 26
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 27
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 28
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 29
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 30
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 31
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 32
-[1 Коринтян 6-10](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C16) 33
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 1
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 2
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 3
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 4
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 5
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 6
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 7
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 8
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 9
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 10
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 11
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 12
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 13
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 14
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 15
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 16
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 17
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 18
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 19
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 20
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 21
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 22
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 23
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 24
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 25
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 26
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 27
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 28
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 29
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 30
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 31
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 32
-[1 Коринтян 11-16](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=C111) 33
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 1
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 2
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 3
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 4
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 5
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 6
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 7
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 8
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 9
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 10
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 11
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 12
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 13
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 14
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 15
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 16
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 17
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 18
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 19
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 20
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 21
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 22
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 23
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 24
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 25
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 26
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 27
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 28
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 29
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 30
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 31
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 32
-[Йоана 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN1) 33
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 1
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 2
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 3
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 4
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 5
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 6
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 7
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 8
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 9
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 10
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 11
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 12
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 13
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 14
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 15
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 16
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 17
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 18
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 19
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 20
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 21
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 22
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 23
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 24
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 25
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 26
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 27
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 28
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 29
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 30
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 31
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 32
-[Йоана 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN8) 33
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 1
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 2
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 3
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 4
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 5
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 6
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 7
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 8
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 9
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 10
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 11
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 12
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 13
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 14
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 15
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 16
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 17
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 18
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 19
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 20
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 21
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 22
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 23
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 24
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 25
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 26
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 27
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 28
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 29
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 30
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 31
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 32
-[Йоана 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=JN15) 33
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 1
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 2
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 3
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 4
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 5
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 6
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 7
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 8
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 9
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 10
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 11
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 12
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 13
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 14
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 15
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 16
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 17
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 18
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 19
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 20
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 21
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 22
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 23
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 24
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 25
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 26
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 27
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 28
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 29
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 30
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 31
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 32
-[Одкриттє 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV1) 33
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 1
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 2
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 3
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 4
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 5
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 6
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 7
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 8
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 9
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 10
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 11
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 12
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 13
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 14
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 15
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 16
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 17
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 18
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 19
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 20
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 21
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 22
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 23
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 24
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 25
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 26
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 27
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 28
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 29
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 30
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 31
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 32
-[Одкриттє 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV8) 33
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 1
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 2
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 3
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 4
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 5
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 6
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 7
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 8
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 9
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 10
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 11
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 12
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 13
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 14
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 15
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 16
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 17
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 18
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 19
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 20
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 21
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 22
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 23
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 24
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 25
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 26
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 27
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 28
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 29
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 30
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 31
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 32
-[Одкриттє 15-22](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=RV15) 33
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 1
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 2
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 3
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 4
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 5
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 6
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 7
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 8
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 9
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 10
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 11
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 12
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 13
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 14
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 15
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 16
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 17
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 18
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 19
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 20
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 21
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 22
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 23
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 24
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 25
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 26
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 27
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 28
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 29
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 30
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 31
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 32
-[Луки 1-6](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK1) 33
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 1
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 2
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 3
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 4
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 5
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 6
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 7
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 8
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 9
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 10
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 11
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 12
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 13
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 14
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 15
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 16
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 17
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 18
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 19
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 20
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 21
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 22
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 23
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 24
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 25
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 26
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 27
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 28
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 29
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 30
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 31
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 32
-[Луки 7-12](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK7) 33
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 1
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 2
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 3
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 4
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 5
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 6
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 7
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 8
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 9
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 10
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 11
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 12
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 13
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 14
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 15
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 16
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 17
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 18
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 19
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 20
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 21
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 22
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 23
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 24
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 25
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 26
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 27
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 28
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 29
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 30
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 31
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 32
-[Луки 13-18](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK13) 33
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 1
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 2
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 3
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 4
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 5
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 6
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 7
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 8
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 9
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 10
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 11
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 12
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 13
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 14
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 15
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 16
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 17
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 18
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 19
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 20
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 21
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 22
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 23
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 24
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 25
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 26
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 27
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 28
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 29
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 30
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 31
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 32
-[Луки 19-24](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=LK19) 33
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 1
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 2
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 3
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 4
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 5
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 6
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 7
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 8
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 9
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 10
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 11
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 12
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 13
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 14
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 15
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 16
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 17
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 18
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 19
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 20
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 21
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 22
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 23
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 24
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 25
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 26
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 27
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 28
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 29
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 30
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 31
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 32
-[Маттея 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT1) 33
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 1
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 2
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 3
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 4
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 5
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 6
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 7
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 8
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 9
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 10
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 11
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 12
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 13
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 14
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 15
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 16
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 17
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 18
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 19
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 20
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 21
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 22
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 23
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 24
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 25
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 26
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 27
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 28
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 29
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 30
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 31
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 32
-[Маттея 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT8) 33
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 1
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 2
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 3
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 4
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 5
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 6
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 7
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 8
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 9
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 10
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 11
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 12
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 13
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 14
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 15
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 16
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 17
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 18
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 19
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 20
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 21
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 22
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 23
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 24
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 25
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 26
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 27
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 28
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 29
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 30
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 31
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 32
-[Маттея 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT15) 33
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 1
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 2
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 3
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 4
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 5
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 6
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 7
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 8
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 9
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 10
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 11
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 12
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 13
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 14
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 15
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 16
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 17
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 18
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 19
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 20
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 21
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 22
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 23
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 24
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 25
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 26
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 27
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 28
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 29
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 30
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 31
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 32
-[Маттея 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=MT22) 33
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 1
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 2
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 3
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 4
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 5
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 6
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 7
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 8
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 9
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 10
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 11
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 12
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 13
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 14
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 15
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 16
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 17
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 18
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 19
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 20
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 21
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 22
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 23
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 24
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 25
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 26
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 27
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 28
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 29
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 30
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 31
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 32
-[Дїяння 1-7](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC1) 33
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 1
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 2
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 3
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 4
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 5
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 6
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 7
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 8
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 9
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 10
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 11
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 12
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 13
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 14
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 15
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 16
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 17
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 18
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 19
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 20
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 21
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 22
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 23
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 24
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 25
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 26
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 27
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 28
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 29
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 30
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 31
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 32
-[Дїяння 8-14](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC8) 33
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 1
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 2
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 3
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 4
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 5
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 6
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 7
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 8
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 9
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 10
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 11
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 12
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 13
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 14
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 15
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 16
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 17
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 18
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 19
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 20
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 21
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 22
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 23
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 24
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 25
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 26
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 27
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 28
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 29
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 30
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 31
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 32
-[Дїяння 15-21](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC15) 33
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 1
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 2
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 3
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 4
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 5
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 6
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 7
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 8
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 9
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 10
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 11
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 12
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 13
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 14
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 15
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 16
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 17
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 18
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 19
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 20
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 21
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 22
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 23
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 24
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 25
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 26
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 27
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 28
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 29
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 30
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 31
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 32
-[Дїяння 22-28](https://ebible.org/study/?w1=bible&t1=local%3Aukr1871&v1=AC22) 33
+[1 Мойсея 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN1)
+[1 Мойсея 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN2)
+[1 Мойсея 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN3)
+[1 Мойсея 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN4)
+[1 Мойсея 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN5)
+[1 Мойсея 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN6)
+[1 Мойсея 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN7)
+[1 Мойсея 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN8)
+[1 Мойсея 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN9)
+[1 Мойсея 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN10)
+[1 Мойсея 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN11)
+[1 Мойсея 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN12)
+[1 Мойсея 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN13)
+[1 Мойсея 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN14)
+[1 Мойсея 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN15)
+[1 Мойсея 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN16)
+[1 Мойсея 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN17)
+[1 Мойсея 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN18)
+[1 Мойсея 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN19)
+[1 Мойсея 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN20)
+[1 Мойсея 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN21)
+[1 Мойсея 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN22)
+[1 Мойсея 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN23)
+[1 Мойсея 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN24)
+[1 Мойсея 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN25)
+[1 Мойсея 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN26)
+[1 Мойсея 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN27)
+[1 Мойсея 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN28)
+[1 Мойсея 29](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN29)
+[1 Мойсея 30](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN30)
+[1 Мойсея 31](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN31)
+[1 Мойсея 32](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN32)
+[1 Мойсея 33](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN33)
+[1 Мойсея 34](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN34)
+[1 Мойсея 35](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN35)
+[1 Мойсея 36](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN36)
+[1 Мойсея 37](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN37)
+[1 Мойсея 38](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN38)
+[1 Мойсея 39](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN39)
+[1 Мойсея 40](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN40)
+[1 Мойсея 41](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN41)
+[1 Мойсея 42](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN42)
+[1 Мойсея 43](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN43)
+[1 Мойсея 44](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN44)
+[1 Мойсея 45](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN45)
+[1 Мойсея 46](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN46)
+[1 Мойсея 47](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN47)
+[1 Мойсея 48](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN48)
+[1 Мойсея 49](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN49)
+[1 Мойсея 50](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GN50)
+[2 Мойсея 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX1)
+[2 Мойсея 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX2)
+[2 Мойсея 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX3)
+[2 Мойсея 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX4)
+[2 Мойсея 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX5)
+[2 Мойсея 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX6)
+[2 Мойсея 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX7)
+[2 Мойсея 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX8)
+[2 Мойсея 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX9)
+[2 Мойсея 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX10)
+[2 Мойсея 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX11)
+[2 Мойсея 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX12)
+[2 Мойсея 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX13)
+[2 Мойсея 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX14)
+[2 Мойсея 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX15)
+[2 Мойсея 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX16)
+[2 Мойсея 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX17)
+[2 Мойсея 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX18)
+[2 Мойсея 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX19)
+[2 Мойсея 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX20)
+[2 Мойсея 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX21)
+[2 Мойсея 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX22)
+[2 Мойсея 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX23)
+[2 Мойсея 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX24)
+[2 Мойсея 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX25)
+[2 Мойсея 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX26)
+[2 Мойсея 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX27)
+[2 Мойсея 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX28)
+[2 Мойсея 29](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX29)
+[2 Мойсея 30](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX30)
+[2 Мойсея 31](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX31)
+[2 Мойсея 32](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX32)
+[2 Мойсея 33](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX33)
+[2 Мойсея 34](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX34)
+[2 Мойсея 35](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX35)
+[2 Мойсея 36](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX36)
+[2 Мойсея 37](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX37)
+[2 Мойсея 38](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX38)
+[2 Мойсея 39](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX39)
+[2 Мойсея 40](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EX40)
+[3 Мойсея 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV1)
+[3 Мойсея 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV2)
+[3 Мойсея 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV3)
+[3 Мойсея 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV4)
+[3 Мойсея 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV5)
+[3 Мойсея 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV6)
+[3 Мойсея 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV7)
+[3 Мойсея 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV8)
+[3 Мойсея 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV9)
+[3 Мойсея 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV10)
+[3 Мойсея 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV11)
+[3 Мойсея 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV12)
+[3 Мойсея 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV13)
+[3 Мойсея 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV14)
+[3 Мойсея 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV15)
+[3 Мойсея 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV16)
+[3 Мойсея 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV17)
+[3 Мойсея 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV18)
+[3 Мойсея 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV19)
+[3 Мойсея 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV20)
+[3 Мойсея 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV21)
+[3 Мойсея 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV22)
+[3 Мойсея 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV23)
+[3 Мойсея 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV24)
+[3 Мойсея 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV25)
+[3 Мойсея 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV26)
+[3 Мойсея 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LV27)
+[4 Мойсея 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU1)
+[4 Мойсея 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU2)
+[4 Мойсея 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU3)
+[4 Мойсея 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU4)
+[4 Мойсея 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU5)
+[4 Мойсея 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU6)
+[4 Мойсея 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU7)
+[4 Мойсея 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU8)
+[4 Мойсея 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU9)
+[4 Мойсея 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU10)
+[4 Мойсея 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU11)
+[4 Мойсея 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU12)
+[4 Мойсея 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU13)
+[4 Мойсея 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU14)
+[4 Мойсея 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU15)
+[4 Мойсея 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU16)
+[4 Мойсея 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU17)
+[4 Мойсея 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU18)
+[4 Мойсея 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU19)
+[4 Мойсея 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU20)
+[4 Мойсея 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU21)
+[4 Мойсея 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU22)
+[4 Мойсея 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU23)
+[4 Мойсея 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU24)
+[4 Мойсея 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU25)
+[4 Мойсея 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU26)
+[4 Мойсея 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU27)
+[4 Мойсея 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU28)
+[4 Мойсея 29](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU29)
+[4 Мойсея 30](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU30)
+[4 Мойсея 31](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU31)
+[4 Мойсея 32](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU32)
+[4 Мойсея 33](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU33)
+[4 Мойсея 34](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU34)
+[4 Мойсея 35](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU35)
+[4 Мойсея 36](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NU36)
+[5 Мойсея 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT1)
+[5 Мойсея 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT2)
+[5 Мойсея 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT3)
+[5 Мойсея 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT4)
+[5 Мойсея 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT5)
+[5 Мойсея 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT6)
+[5 Мойсея 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT7)
+[5 Мойсея 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT8)
+[5 Мойсея 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT9)
+[5 Мойсея 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT10)
+[5 Мойсея 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT11)
+[5 Мойсея 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT12)
+[5 Мойсея 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT13)
+[5 Мойсея 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT14)
+[5 Мойсея 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT15)
+[5 Мойсея 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT16)
+[5 Мойсея 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT17)
+[5 Мойсея 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT18)
+[5 Мойсея 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT19)
+[5 Мойсея 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT20)
+[5 Мойсея 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT21)
+[5 Мойсея 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT22)
+[5 Мойсея 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT23)
+[5 Мойсея 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT24)
+[5 Мойсея 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT25)
+[5 Мойсея 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT26)
+[5 Мойсея 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT27)
+[5 Мойсея 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT28)
+[5 Мойсея 29](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT29)
+[5 Мойсея 30](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT30)
+[5 Мойсея 31](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT31)
+[5 Мойсея 32](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT32)
+[5 Мойсея 33](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT33)
+[5 Мойсея 34](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DT34)
+[Иозея 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS1)
+[Иозея 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS2)
+[Иозея 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS3)
+[Иозея 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS4)
+[Иозея 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS5)
+[Иозея 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS6)
+[Иозея 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS7)
+[Иозея 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS8)
+[Иозея 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS9)
+[Иозея 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS10)
+[Иозея 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS11)
+[Иозея 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS12)
+[Иозея 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS13)
+[Иозея 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS14)
+[Иозея 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS15)
+[Иозея 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS16)
+[Иозея 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS17)
+[Иозея 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS18)
+[Иозея 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS19)
+[Иозея 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS20)
+[Иозея 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS21)
+[Иозея 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS22)
+[Иозея 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS23)
+[Иозея 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JS24)
+[Суддїв 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG1)
+[Суддїв 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG2)
+[Суддїв 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG3)
+[Суддїв 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG4)
+[Суддїв 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG5)
+[Суддїв 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG6)
+[Суддїв 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG7)
+[Суддїв 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG8)
+[Суддїв 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG9)
+[Суддїв 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG10)
+[Суддїв 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG11)
+[Суддїв 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG12)
+[Суддїв 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG13)
+[Суддїв 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG14)
+[Суддїв 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG15)
+[Суддїв 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG16)
+[Суддїв 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG17)
+[Суддїв 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG18)
+[Суддїв 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG19)
+[Суддїв 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG20)
+[Суддїв 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JG21)
+[Рути 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RT1)
+[Рути 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RT2)
+[Рути 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RT3)
+[Рути 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RT4)
+[1 Самуїлова 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S11)
+[1 Самуїлова 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S12)
+[1 Самуїлова 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S13)
+[1 Самуїлова 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S14)
+[1 Самуїлова 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S15)
+[1 Самуїлова 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S16)
+[1 Самуїлова 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S17)
+[1 Самуїлова 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S18)
+[1 Самуїлова 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S19)
+[1 Самуїлова 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S110)
+[1 Самуїлова 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S111)
+[1 Самуїлова 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S112)
+[1 Самуїлова 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S113)
+[1 Самуїлова 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S114)
+[1 Самуїлова 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S115)
+[1 Самуїлова 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S116)
+[1 Самуїлова 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S117)
+[1 Самуїлова 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S118)
+[1 Самуїлова 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S119)
+[1 Самуїлова 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S120)
+[1 Самуїлова 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S121)
+[1 Самуїлова 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S122)
+[1 Самуїлова 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S123)
+[1 Самуїлова 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S124)
+[1 Самуїлова 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S125)
+[1 Самуїлова 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S126)
+[1 Самуїлова 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S127)
+[1 Самуїлова 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S128)
+[1 Самуїлова 29](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S129)
+[1 Самуїлова 30](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S130)
+[1 Самуїлова 31](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S131)
+[2 Самуїлова 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S21)
+[2 Самуїлова 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S22)
+[2 Самуїлова 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S23)
+[2 Самуїлова 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S24)
+[2 Самуїлова 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S25)
+[2 Самуїлова 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S26)
+[2 Самуїлова 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S27)
+[2 Самуїлова 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S28)
+[2 Самуїлова 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S29)
+[2 Самуїлова 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S210)
+[2 Самуїлова 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S211)
+[2 Самуїлова 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S212)
+[2 Самуїлова 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S213)
+[2 Самуїлова 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S214)
+[2 Самуїлова 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S215)
+[2 Самуїлова 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S216)
+[2 Самуїлова 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S217)
+[2 Самуїлова 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S218)
+[2 Самуїлова 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S219)
+[2 Самуїлова 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S220)
+[2 Самуїлова 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S221)
+[2 Самуїлова 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S222)
+[2 Самуїлова 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S223)
+[2 Самуїлова 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=S224)
+[1 Царів 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K11)
+[1 Царів 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K12)
+[1 Царів 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K13)
+[1 Царів 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K14)
+[1 Царів 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K15)
+[1 Царів 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K16)
+[1 Царів 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K17)
+[1 Царів 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K18)
+[1 Царів 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K19)
+[1 Царів 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K110)
+[1 Царів 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K111)
+[1 Царів 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K112)
+[1 Царів 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K113)
+[1 Царів 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K114)
+[1 Царів 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K115)
+[1 Царів 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K116)
+[1 Царів 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K117)
+[1 Царів 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K118)
+[1 Царів 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K119)
+[1 Царів 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K120)
+[1 Царів 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K121)
+[1 Царів 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K122)
+[2 Царів 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K21)
+[2 Царів 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K22)
+[2 Царів 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K23)
+[2 Царів 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K24)
+[2 Царів 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K25)
+[2 Царів 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K26)
+[2 Царів 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K27)
+[2 Царів 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K28)
+[2 Царів 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K29)
+[2 Царів 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K210)
+[2 Царів 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K211)
+[2 Царів 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K212)
+[2 Царів 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K213)
+[2 Царів 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K214)
+[2 Царів 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K215)
+[2 Царів 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K216)
+[2 Царів 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K217)
+[2 Царів 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K218)
+[2 Царів 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K219)
+[2 Царів 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K220)
+[2 Царів 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K221)
+[2 Царів 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K222)
+[2 Царів 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K223)
+[2 Царів 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K224)
+[2 Царів 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=K225)
+[1 Паралипоменон 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R11)
+[1 Паралипоменон 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R12)
+[1 Паралипоменон 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R13)
+[1 Паралипоменон 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R14)
+[1 Паралипоменон 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R15)
+[1 Паралипоменон 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R16)
+[1 Паралипоменон 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R17)
+[1 Паралипоменон 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R18)
+[1 Паралипоменон 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R19)
+[1 Паралипоменон 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R110)
+[1 Паралипоменон 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R111)
+[1 Паралипоменон 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R112)
+[1 Паралипоменон 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R113)
+[1 Паралипоменон 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R114)
+[1 Паралипоменон 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R115)
+[1 Паралипоменон 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R116)
+[1 Паралипоменон 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R117)
+[1 Паралипоменон 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R118)
+[1 Паралипоменон 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R119)
+[1 Паралипоменон 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R120)
+[1 Паралипоменон 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R121)
+[1 Паралипоменон 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R122)
+[1 Паралипоменон 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R123)
+[1 Паралипоменон 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R124)
+[1 Паралипоменон 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R125)
+[1 Паралипоменон 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R126)
+[1 Паралипоменон 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R127)
+[1 Паралипоменон 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R128)
+[1 Паралипоменон 29](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R129)
+[2 Паралипоменон 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R21)
+[2 Паралипоменон 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R22)
+[2 Паралипоменон 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R23)
+[2 Паралипоменон 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R24)
+[2 Паралипоменон 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R25)
+[2 Паралипоменон 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R26)
+[2 Паралипоменон 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R27)
+[2 Паралипоменон 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R28)
+[2 Паралипоменон 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R29)
+[2 Паралипоменон 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R210)
+[2 Паралипоменон 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R211)
+[2 Паралипоменон 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R212)
+[2 Паралипоменон 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R213)
+[2 Паралипоменон 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R214)
+[2 Паралипоменон 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R215)
+[2 Паралипоменон 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R216)
+[2 Паралипоменон 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R217)
+[2 Паралипоменон 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R218)
+[2 Паралипоменон 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R219)
+[2 Паралипоменон 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R220)
+[2 Паралипоменон 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R221)
+[2 Паралипоменон 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R222)
+[2 Паралипоменон 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R223)
+[2 Паралипоменон 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R224)
+[2 Паралипоменон 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R225)
+[2 Паралипоменон 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R226)
+[2 Паралипоменон 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R227)
+[2 Паралипоменон 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R228)
+[2 Паралипоменон 29](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R229)
+[2 Паралипоменон 30](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R230)
+[2 Паралипоменон 31](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R231)
+[2 Паралипоменон 32](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R232)
+[2 Паралипоменон 33](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R233)
+[2 Паралипоменон 34](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R234)
+[2 Паралипоменон 35](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R235)
+[2 Паралипоменон 36](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=R236)
+[Ездри 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ER1)
+[Ездри 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ER2)
+[Ездри 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ER3)
+[Ездри 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ER4)
+[Ездри 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ER5)
+[Ездри 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ER6)
+[Ездри 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ER7)
+[Ездри 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ER8)
+[Ездри 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ER9)
+[Ездри 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ER10)
+[Неємії 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NH1)
+[Неємії 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NH2)
+[Неємії 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NH3)
+[Неємії 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NH4)
+[Неємії 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NH5)
+[Неємії 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NH6)
+[Неємії 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NH7)
+[Неємії 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NH8)
+[Неємії 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NH9)
+[Неємії 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NH10)
+[Неємії 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NH11)
+[Неємії 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NH12)
+[Неємії 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NH13)
+[Естери 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ET1)
+[Естери 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ET2)
+[Естери 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ET3)
+[Естери 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ET4)
+[Естери 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ET5)
+[Естери 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ET6)
+[Естери 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ET7)
+[Естери 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ET8)
+[Естери 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ET9)
+[Естери 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ET10)
+[Йова 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB1)
+[Йова 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB2)
+[Йова 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB3)
+[Йова 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB4)
+[Йова 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB5)
+[Йова 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB6)
+[Йова 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB7)
+[Йова 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB8)
+[Йова 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB9)
+[Йова 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB10)
+[Йова 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB11)
+[Йова 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB12)
+[Йова 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB13)
+[Йова 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB14)
+[Йова 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB15)
+[Йова 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB16)
+[Йова 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB17)
+[Йова 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB18)
+[Йова 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB19)
+[Йова 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB20)
+[Йова 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB21)
+[Йова 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB22)
+[Йова 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB23)
+[Йова 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB24)
+[Йова 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB25)
+[Йова 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB26)
+[Йова 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB27)
+[Йова 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB28)
+[Йова 29](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB29)
+[Йова 30](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB30)
+[Йова 31](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB31)
+[Йова 32](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB32)
+[Йова 33](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB33)
+[Йова 34](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB34)
+[Йова 35](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB35)
+[Йова 36](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB36)
+[Йова 37](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB37)
+[Йова 38](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB38)
+[Йова 39](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB39)
+[Йова 40](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB40)
+[Йова 41](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB41)
+[Йова 42](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JB42)
+[Псалтирь 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS1)
+[Псалтирь 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS2)
+[Псалтирь 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS3)
+[Псалтирь 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS4)
+[Псалтирь 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS5)
+[Псалтирь 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS6)
+[Псалтирь 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS7)
+[Псалтирь 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS8)
+[Псалтирь 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS9)
+[Псалтирь 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS10)
+[Псалтирь 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS11)
+[Псалтирь 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS12)
+[Псалтирь 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS13)
+[Псалтирь 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS14)
+[Псалтирь 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS15)
+[Псалтирь 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS16)
+[Псалтирь 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS17)
+[Псалтирь 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS18)
+[Псалтирь 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS19)
+[Псалтирь 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS20)
+[Псалтирь 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS21)
+[Псалтирь 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS22)
+[Псалтирь 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS23)
+[Псалтирь 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS24)
+[Псалтирь 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS25)
+[Псалтирь 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS26)
+[Псалтирь 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS27)
+[Псалтирь 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS28)
+[Псалтирь 29](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS29)
+[Псалтирь 30](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS30)
+[Псалтирь 31](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS31)
+[Псалтирь 32](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS32)
+[Псалтирь 33](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS33)
+[Псалтирь 34](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS34)
+[Псалтирь 35](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS35)
+[Псалтирь 36](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS36)
+[Псалтирь 37](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS37)
+[Псалтирь 38](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS38)
+[Псалтирь 39](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS39)
+[Псалтирь 40](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS40)
+[Псалтирь 41](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS41)
+[Псалтирь 42](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS42)
+[Псалтирь 43](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS43)
+[Псалтирь 44](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS44)
+[Псалтирь 45](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS45)
+[Псалтирь 46](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS46)
+[Псалтирь 47](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS47)
+[Псалтирь 48](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS48)
+[Псалтирь 49](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS49)
+[Псалтирь 50](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS50)
+[Псалтирь 51](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS51)
+[Псалтирь 52](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS52)
+[Псалтирь 53](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS53)
+[Псалтирь 54](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS54)
+[Псалтирь 55](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS55)
+[Псалтирь 56](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS56)
+[Псалтирь 57](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS57)
+[Псалтирь 58](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS58)
+[Псалтирь 59](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS59)
+[Псалтирь 60](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS60)
+[Псалтирь 61](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS61)
+[Псалтирь 62](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS62)
+[Псалтирь 63](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS63)
+[Псалтирь 64](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS64)
+[Псалтирь 65](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS65)
+[Псалтирь 66](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS66)
+[Псалтирь 67](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS67)
+[Псалтирь 68](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS68)
+[Псалтирь 69](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS69)
+[Псалтирь 70](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS70)
+[Псалтирь 71](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS71)
+[Псалтирь 72](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS72)
+[Псалтирь 73](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS73)
+[Псалтирь 74](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS74)
+[Псалтирь 75](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS75)
+[Псалтирь 76](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS76)
+[Псалтирь 77](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS77)
+[Псалтирь 78](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS78)
+[Псалтирь 79](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS79)
+[Псалтирь 80](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS80)
+[Псалтирь 81](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS81)
+[Псалтирь 82](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS82)
+[Псалтирь 83](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS83)
+[Псалтирь 84](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS84)
+[Псалтирь 85](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS85)
+[Псалтирь 86](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS86)
+[Псалтирь 87](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS87)
+[Псалтирь 88](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS88)
+[Псалтирь 89](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS89)
+[Псалтирь 90](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS90)
+[Псалтирь 91](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS91)
+[Псалтирь 92](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS92)
+[Псалтирь 93](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS93)
+[Псалтирь 94](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS94)
+[Псалтирь 95](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS95)
+[Псалтирь 96](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS96)
+[Псалтирь 97](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS97)
+[Псалтирь 98](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS98)
+[Псалтирь 99](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS99)
+[Псалтирь 100](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS100)
+[Псалтирь 101](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS101)
+[Псалтирь 102](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS102)
+[Псалтирь 103](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS103)
+[Псалтирь 104](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS104)
+[Псалтирь 105](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS105)
+[Псалтирь 106](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS106)
+[Псалтирь 107](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS107)
+[Псалтирь 108](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS108)
+[Псалтирь 109](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS109)
+[Псалтирь 110](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS110)
+[Псалтирь 111](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS111)
+[Псалтирь 112](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS112)
+[Псалтирь 113](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS113)
+[Псалтирь 114](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS114)
+[Псалтирь 115](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS115)
+[Псалтирь 116](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS116)
+[Псалтирь 117](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS117)
+[Псалтирь 118](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS118)
+[Псалтирь 119](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS119)
+[Псалтирь 120](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS120)
+[Псалтирь 121](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS121)
+[Псалтирь 122](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS122)
+[Псалтирь 123](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS123)
+[Псалтирь 124](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS124)
+[Псалтирь 125](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS125)
+[Псалтирь 126](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS126)
+[Псалтирь 127](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS127)
+[Псалтирь 128](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS128)
+[Псалтирь 129](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS129)
+[Псалтирь 130](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS130)
+[Псалтирь 131](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS131)
+[Псалтирь 132](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS132)
+[Псалтирь 133](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS133)
+[Псалтирь 134](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS134)
+[Псалтирь 135](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS135)
+[Псалтирь 136](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS136)
+[Псалтирь 137](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS137)
+[Псалтирь 138](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS138)
+[Псалтирь 139](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS139)
+[Псалтирь 140](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS140)
+[Псалтирь 141](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS141)
+[Псалтирь 142](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS142)
+[Псалтирь 143](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS143)
+[Псалтирь 144](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS144)
+[Псалтирь 145](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS145)
+[Псалтирь 146](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS146)
+[Псалтирь 147](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS147)
+[Псалтирь 148](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS148)
+[Псалтирь 149](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS149)
+[Псалтирь 150](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PS150)
+[Приповісток 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR1)
+[Приповісток 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR2)
+[Приповісток 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR3)
+[Приповісток 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR4)
+[Приповісток 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR5)
+[Приповісток 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR6)
+[Приповісток 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR7)
+[Приповісток 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR8)
+[Приповісток 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR9)
+[Приповісток 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR10)
+[Приповісток 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR11)
+[Приповісток 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR12)
+[Приповісток 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR13)
+[Приповісток 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR14)
+[Приповісток 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR15)
+[Приповісток 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR16)
+[Приповісток 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR17)
+[Приповісток 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR18)
+[Приповісток 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR19)
+[Приповісток 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR20)
+[Приповісток 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR21)
+[Приповісток 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR22)
+[Приповісток 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR23)
+[Приповісток 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR24)
+[Приповісток 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR25)
+[Приповісток 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR26)
+[Приповісток 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR27)
+[Приповісток 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR28)
+[Приповісток 29](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR29)
+[Приповісток 30](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR30)
+[Приповісток 31](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PR31)
+[Екклезіаста 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EC1)
+[Екклезіаста 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EC2)
+[Екклезіаста 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EC3)
+[Екклезіаста 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EC4)
+[Екклезіаста 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EC5)
+[Екклезіаста 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EC6)
+[Екклезіаста 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EC7)
+[Екклезіаста 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EC8)
+[Екклезіаста 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EC9)
+[Екклезіаста 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EC10)
+[Екклезіаста 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EC11)
+[Екклезіаста 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EC12)
+[Пісень 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=SS1)
+[Пісень 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=SS2)
+[Пісень 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=SS3)
+[Пісень 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=SS4)
+[Пісень 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=SS5)
+[Пісень 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=SS6)
+[Пісень 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=SS7)
+[Пісень 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=SS8)
+[Ісаїї 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS1)
+[Ісаїї 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS2)
+[Ісаїї 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS3)
+[Ісаїї 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS4)
+[Ісаїї 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS5)
+[Ісаїї 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS6)
+[Ісаїї 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS7)
+[Ісаїї 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS8)
+[Ісаїї 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS9)
+[Ісаїї 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS10)
+[Ісаїї 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS11)
+[Ісаїї 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS12)
+[Ісаїї 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS13)
+[Ісаїї 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS14)
+[Ісаїї 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS15)
+[Ісаїї 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS16)
+[Ісаїї 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS17)
+[Ісаїї 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS18)
+[Ісаїї 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS19)
+[Ісаїї 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS20)
+[Ісаїї 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS21)
+[Ісаїї 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS22)
+[Ісаїї 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS23)
+[Ісаїї 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS24)
+[Ісаїї 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS25)
+[Ісаїї 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS26)
+[Ісаїї 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS27)
+[Ісаїї 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS28)
+[Ісаїї 29](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS29)
+[Ісаїї 30](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS30)
+[Ісаїї 31](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS31)
+[Ісаїї 32](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS32)
+[Ісаїї 33](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS33)
+[Ісаїї 34](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS34)
+[Ісаїї 35](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS35)
+[Ісаїї 36](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS36)
+[Ісаїї 37](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS37)
+[Ісаїї 38](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS38)
+[Ісаїї 39](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS39)
+[Ісаїї 40](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS40)
+[Ісаїї 41](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS41)
+[Ісаїї 42](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS42)
+[Ісаїї 43](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS43)
+[Ісаїї 44](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS44)
+[Ісаїї 45](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS45)
+[Ісаїї 46](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS46)
+[Ісаїї 47](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS47)
+[Ісаїї 48](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS48)
+[Ісаїї 49](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS49)
+[Ісаїї 50](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS50)
+[Ісаїї 51](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS51)
+[Ісаїї 52](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS52)
+[Ісаїї 53](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS53)
+[Ісаїї 54](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS54)
+[Ісаїї 55](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS55)
+[Ісаїї 56](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS56)
+[Ісаїї 57](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS57)
+[Ісаїї 58](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS58)
+[Ісаїї 59](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS59)
+[Ісаїї 60](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS60)
+[Ісаїї 61](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS61)
+[Ісаїї 62](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS62)
+[Ісаїї 63](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS63)
+[Ісаїї 64](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS64)
+[Ісаїї 65](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS65)
+[Ісаїї 66](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=IS66)
+[Еремії 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR1)
+[Еремії 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR2)
+[Еремії 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR3)
+[Еремії 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR4)
+[Еремії 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR5)
+[Еремії 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR6)
+[Еремії 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR7)
+[Еремії 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR8)
+[Еремії 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR9)
+[Еремії 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR10)
+[Еремії 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR11)
+[Еремії 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR12)
+[Еремії 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR13)
+[Еремії 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR14)
+[Еремії 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR15)
+[Еремії 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR16)
+[Еремії 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR17)
+[Еремії 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR18)
+[Еремії 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR19)
+[Еремії 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR20)
+[Еремії 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR21)
+[Еремії 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR22)
+[Еремії 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR23)
+[Еремії 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR24)
+[Еремії 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR25)
+[Еремії 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR26)
+[Еремії 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR27)
+[Еремії 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR28)
+[Еремії 29](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR29)
+[Еремії 30](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR30)
+[Еремії 31](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR31)
+[Еремії 32](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR32)
+[Еремії 33](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR33)
+[Еремії 34](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR34)
+[Еремії 35](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR35)
+[Еремії 36](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR36)
+[Еремії 37](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR37)
+[Еремії 38](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR38)
+[Еремії 39](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR39)
+[Еремії 40](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR40)
+[Еремії 41](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR41)
+[Еремії 42](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR42)
+[Еремії 43](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR43)
+[Еремії 44](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR44)
+[Еремії 45](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR45)
+[Еремії 46](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR46)
+[Еремії 47](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR47)
+[Еремії 48](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR48)
+[Еремії 49](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR49)
+[Еремії 50](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR50)
+[Еремії 51](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR51)
+[Еремії 52](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JR52)
+[Плач 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LM1)
+[Плач 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LM2)
+[Плач 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LM3)
+[Плач 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LM4)
+[Плач 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LM5)
+[Езекиїла 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK1)
+[Езекиїла 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK2)
+[Езекиїла 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK3)
+[Езекиїла 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK4)
+[Езекиїла 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK5)
+[Езекиїла 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK6)
+[Езекиїла 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK7)
+[Езекиїла 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK8)
+[Езекиїла 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK9)
+[Езекиїла 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK10)
+[Езекиїла 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK11)
+[Езекиїла 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK12)
+[Езекиїла 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK13)
+[Езекиїла 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK14)
+[Езекиїла 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK15)
+[Езекиїла 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK16)
+[Езекиїла 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK17)
+[Езекиїла 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK18)
+[Езекиїла 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK19)
+[Езекиїла 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK20)
+[Езекиїла 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK21)
+[Езекиїла 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK22)
+[Езекиїла 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK23)
+[Езекиїла 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK24)
+[Езекиїла 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK25)
+[Езекиїла 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK26)
+[Езекиїла 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK27)
+[Езекиїла 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK28)
+[Езекиїла 29](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK29)
+[Езекиїла 30](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK30)
+[Езекиїла 31](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK31)
+[Езекиїла 32](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK32)
+[Езекиїла 33](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK33)
+[Езекиїла 34](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK34)
+[Езекиїла 35](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK35)
+[Езекиїла 36](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK36)
+[Езекиїла 37](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK37)
+[Езекиїла 38](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK38)
+[Езекиїла 39](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK39)
+[Езекиїла 40](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK40)
+[Езекиїла 41](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK41)
+[Езекиїла 42](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK42)
+[Езекиїла 43](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK43)
+[Езекиїла 44](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK44)
+[Езекиїла 45](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK45)
+[Езекиїла 46](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK46)
+[Езекиїла 47](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK47)
+[Езекиїла 48](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EK48)
+[Даниїла 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DN1)
+[Даниїла 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DN2)
+[Даниїла 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DN3)
+[Даниїла 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DN4)
+[Даниїла 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DN5)
+[Даниїла 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DN6)
+[Даниїла 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DN7)
+[Даниїла 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DN8)
+[Даниїла 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DN9)
+[Даниїла 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DN10)
+[Даниїла 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DN11)
+[Даниїла 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=DN12)
+[Осії 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS1)
+[Осії 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS2)
+[Осії 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS3)
+[Осії 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS4)
+[Осії 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS5)
+[Осії 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS6)
+[Осії 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS7)
+[Осії 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS8)
+[Осії 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS9)
+[Осії 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS10)
+[Осії 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS11)
+[Осії 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS12)
+[Осії 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS13)
+[Осії 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HS14)
+[Йоіла 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JL1)
+[Йоіла 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JL2)
+[Йоіла 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JL3)
+[Амоса 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AM1)
+[Амоса 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AM2)
+[Амоса 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AM3)
+[Амоса 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AM4)
+[Амоса 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AM5)
+[Амоса 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AM6)
+[Амоса 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AM7)
+[Амоса 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AM8)
+[Амоса 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AM9)
+[Авдія 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=OB1)
+[Йони 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JH1)
+[Йони 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JH2)
+[Йони 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JH3)
+[Йони 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JH4)
+[Михея 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MC1)
+[Михея 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MC2)
+[Михея 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MC3)
+[Михея 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MC4)
+[Михея 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MC5)
+[Михея 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MC6)
+[Михея 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MC7)
+[Наума 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NM1)
+[Наума 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NM2)
+[Наума 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=NM3)
+[Аввакума 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HK1)
+[Аввакума 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HK2)
+[Аввакума 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HK3)
+[Софонії 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZP1)
+[Софонії 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZP2)
+[Софонії 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZP3)
+[Аггея 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HG1)
+[Аггея 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HG2)
+[Захарії 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC1)
+[Захарії 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC2)
+[Захарії 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC3)
+[Захарії 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC4)
+[Захарії 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC5)
+[Захарії 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC6)
+[Захарії 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC7)
+[Захарії 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC8)
+[Захарії 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC9)
+[Захарії 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC10)
+[Захарії 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC11)
+[Захарії 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC12)
+[Захарії 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC13)
+[Захарії 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ZC14)
+[Малахія 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ML1)
+[Малахія 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ML2)
+[Малахія 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ML3)
+[Малахія 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=ML4)
+[Маттея 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT1)
+[Маттея 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT2)
+[Маттея 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT3)
+[Маттея 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT4)
+[Маттея 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT5)
+[Маттея 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT6)
+[Маттея 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT7)
+[Маттея 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT8)
+[Маттея 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT9)
+[Маттея 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT10)
+[Маттея 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT11)
+[Маттея 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT12)
+[Маттея 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT13)
+[Маттея 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT14)
+[Маттея 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT15)
+[Маттея 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT16)
+[Маттея 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT17)
+[Маттея 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT18)
+[Маттея 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT19)
+[Маттея 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT20)
+[Маттея 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT21)
+[Маттея 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT22)
+[Маттея 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT23)
+[Маттея 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT24)
+[Маттея 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT25)
+[Маттея 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT26)
+[Маттея 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT27)
+[Маттея 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MT28)
+[Марка 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK1)
+[Марка 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK2)
+[Марка 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK3)
+[Марка 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK4)
+[Марка 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK5)
+[Марка 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK6)
+[Марка 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK7)
+[Марка 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK8)
+[Марка 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK9)
+[Марка 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK10)
+[Марка 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK11)
+[Марка 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK12)
+[Марка 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK13)
+[Марка 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK14)
+[Марка 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK15)
+[Марка 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=MK16)
+[Луки 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK1)
+[Луки 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK2)
+[Луки 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK3)
+[Луки 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK4)
+[Луки 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK5)
+[Луки 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK6)
+[Луки 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK7)
+[Луки 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK8)
+[Луки 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK9)
+[Луки 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK10)
+[Луки 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK11)
+[Луки 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK12)
+[Луки 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK13)
+[Луки 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK14)
+[Луки 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK15)
+[Луки 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK16)
+[Луки 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK17)
+[Луки 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK18)
+[Луки 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK19)
+[Луки 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK20)
+[Луки 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK21)
+[Луки 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK22)
+[Луки 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK23)
+[Луки 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=LK24)
+[Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN1)
+[Йоана 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN2)
+[Йоана 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN3)
+[Йоана 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN4)
+[Йоана 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN5)
+[Йоана 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN6)
+[Йоана 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN7)
+[Йоана 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN8)
+[Йоана 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN9)
+[Йоана 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN10)
+[Йоана 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN11)
+[Йоана 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN12)
+[Йоана 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN13)
+[Йоана 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN14)
+[Йоана 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN15)
+[Йоана 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN16)
+[Йоана 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN17)
+[Йоана 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN18)
+[Йоана 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN19)
+[Йоана 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN20)
+[Йоана 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JN21)
+[Дїяння 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC1)
+[Дїяння 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC2)
+[Дїяння 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC3)
+[Дїяння 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC4)
+[Дїяння 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC5)
+[Дїяння 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC6)
+[Дїяння 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC7)
+[Дїяння 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC8)
+[Дїяння 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC9)
+[Дїяння 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC10)
+[Дїяння 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC11)
+[Дїяння 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC12)
+[Дїяння 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC13)
+[Дїяння 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC14)
+[Дїяння 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC15)
+[Дїяння 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC16)
+[Дїяння 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC17)
+[Дїяння 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC18)
+[Дїяння 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC19)
+[Дїяння 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC20)
+[Дїяння 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC21)
+[Дїяння 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC22)
+[Дїяння 23](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC23)
+[Дїяння 24](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC24)
+[Дїяння 25](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC25)
+[Дїяння 26](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC26)
+[Дїяння 27](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC27)
+[Дїяння 28](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=AC28)
+[Римлян 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM1)
+[Римлян 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM2)
+[Римлян 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM3)
+[Римлян 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM4)
+[Римлян 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM5)
+[Римлян 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM6)
+[Римлян 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM7)
+[Римлян 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM8)
+[Римлян 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM9)
+[Римлян 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM10)
+[Римлян 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM11)
+[Римлян 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM12)
+[Римлян 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM13)
+[Римлян 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM14)
+[Римлян 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM15)
+[Римлян 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RM16)
+[1 Коринтян 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C11)
+[1 Коринтян 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C12)
+[1 Коринтян 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C13)
+[1 Коринтян 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C14)
+[1 Коринтян 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C15)
+[1 Коринтян 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C16)
+[1 Коринтян 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C17)
+[1 Коринтян 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C18)
+[1 Коринтян 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C19)
+[1 Коринтян 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C110)
+[1 Коринтян 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C111)
+[1 Коринтян 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C112)
+[1 Коринтян 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C113)
+[1 Коринтян 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C114)
+[1 Коринтян 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C115)
+[1 Коринтян 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C116)
+[2 Коринтян 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C21)
+[2 Коринтян 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C22)
+[2 Коринтян 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C23)
+[2 Коринтян 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C24)
+[2 Коринтян 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C25)
+[2 Коринтян 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C26)
+[2 Коринтян 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C27)
+[2 Коринтян 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C28)
+[2 Коринтян 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C29)
+[2 Коринтян 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C210)
+[2 Коринтян 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C211)
+[2 Коринтян 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C212)
+[2 Коринтян 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=C213)
+[Галат 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GL1)
+[Галат 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GL2)
+[Галат 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GL3)
+[Галат 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GL4)
+[Галат 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GL5)
+[Галат 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=GL6)
+[Єфесян 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EP1)
+[Єфесян 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EP2)
+[Єфесян 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EP3)
+[Єфесян 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EP4)
+[Єфесян 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EP5)
+[Єфесян 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=EP6)
+[Филипян 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PP1)
+[Филипян 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PP2)
+[Филипян 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PP3)
+[Филипян 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PP4)
+[Колосян 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=CL1)
+[Колосян 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=CL2)
+[Колосян 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=CL3)
+[Колосян 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=CL4)
+[1 Солунян 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=H11)
+[1 Солунян 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=H12)
+[1 Солунян 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=H13)
+[1 Солунян 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=H14)
+[1 Солунян 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=H15)
+[2 Солунян 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=H21)
+[2 Солунян 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=H22)
+[2 Солунян 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=H23)
+[1 Тимотея 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=T11)
+[1 Тимотея 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=T12)
+[1 Тимотея 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=T13)
+[1 Тимотея 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=T14)
+[1 Тимотея 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=T15)
+[1 Тимотея 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=T16)
+[2 Тимотея 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=T21)
+[2 Тимотея 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=T22)
+[2 Тимотея 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=T23)
+[2 Тимотея 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=T24)
+[Тита 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=TT1)
+[Тита 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=TT2)
+[Тита 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=TT3)
+[Филимона 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=PM1)
+[Жидів 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HB1)
+[Жидів 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HB2)
+[Жидів 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HB3)
+[Жидів 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HB4)
+[Жидів 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HB5)
+[Жидів 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HB6)
+[Жидів 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HB7)
+[Жидів 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HB8)
+[Жидів 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HB9)
+[Жидів 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HB10)
+[Жидів 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HB11)
+[Жидів 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HB12)
+[Жидів 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=HB13)
+[Якова 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JM1)
+[Якова 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JM2)
+[Якова 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JM3)
+[Якова 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JM4)
+[Якова 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JM5)
+[1 Петра 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=P11)
+[1 Петра 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=P12)
+[1 Петра 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=P13)
+[1 Петра 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=P14)
+[1 Петра 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=P15)
+[2 Петра 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=P21)
+[2 Петра 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=P22)
+[2 Петра 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=P23)
+[1 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=J11)
+[1 Йоана 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=J12)
+[1 Йоана 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=J13)
+[1 Йоана 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=J14)
+[1 Йоана 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=J15)
+[2 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=J21)
+[3 Йоана 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=J31)
+[Юди 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=JD1)
+[Одкриттє 1](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV1)
+[Одкриттє 2](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV2)
+[Одкриттє 3](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV3)
+[Одкриттє 4](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV4)
+[Одкриттє 5](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV5)
+[Одкриттє 6](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV6)
+[Одкриттє 7](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV7)
+[Одкриттє 8](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV8)
+[Одкриттє 9](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV9)
+[Одкриттє 10](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV10)
+[Одкриттє 11](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV11)
+[Одкриттє 12](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV12)
+[Одкриттє 13](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV13)
+[Одкриттє 14](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV14)
+[Одкриттє 15](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV15)
+[Одкриттє 16](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV16)
+[Одкриттє 17](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV17)
+[Одкриттє 18](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV18)
+[Одкриттє 19](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV19)
+[Одкриттє 20](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV20)
+[Одкриттє 21](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV21)
+[Одкриттє 22](https://ebible.org/study/?w1=bible&t1=local%3Aukrfb&v1=RV22)
