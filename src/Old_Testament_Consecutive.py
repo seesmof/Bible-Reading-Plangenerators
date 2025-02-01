@@ -5,7 +5,7 @@ from util.const import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Book_names
 from Grant_Horner_Bible_Reading_Plan import get_eBible_reading_link
 
 res=[]
-for B in range(1,66+1):
+for B in range(1,40):
     Bn=Book_names[B]
     for c in range(1,chapter_numbers[B]+1):
         l=get_eBible_reading_link(B,c)
