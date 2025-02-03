@@ -3,7 +3,7 @@ import os
 
 from util.const import BIBLE_BOOK_NUMBER_TO_ENGLISH_TINY_ABBREVIATION as eBible_abbreviations
 from util.const import BIBLE_BOOK_NUMBER_TO_ENGLISH_SHORT_ABBREVIATION as English_Book_names
-from util.const import BIBLE_BOOK_NUMBER_TO_KULISH_BIBLE_NAME as Ukrainian_Book_names
+from util.const import BIBLE_BOOK_NUMBER_TO_HOMENKO_BIBLE_NAME as Ukrainian_Book_names
 from util.const import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
 from util.const import BIBLE_BOOK_NUMBER_TO_GERMAN_NAME as German_Book_names
 from util.const import CUSTOM_HORNER_PLAN_LISTS as lists_data
@@ -109,36 +109,35 @@ def get_local_reading_link(
     ref=f'{Book_abbreviation} {chapter}'
     return f'{base}{ref}|{ref}]]'
 
-'''
 def get_formatted_link(
     Book_number:int,
     chapter_number:int,
-    language=Language.UK,
-    link_type=LinkType.MDE,
-    link_source=LinkSource.EBIBLE,
+    language='UK',
+    link_type='MDE',
+    link_source='EBIBLE',
 ):
-    reading_link=get_eBible_reading_link(Book_number,chapter_number)
+    reading_link=get_Bolls_reading_link(Book_number,chapter_number)
 
-    if language==Language.UK: Book_name=Ukrainian_Book_names[Book_number]
-    elif language==Language.EN: Book_name=English_Book_names[Book_number]
-    elif language==Language.DE: Book_name=German_Book_names[Book_number]
+    if language=='UK': Book_name=Ukrainian_Book_names[Book_number]
+    elif language=='Language.EN': Book_name=English_Book_names[Book_number]
+    elif language=='Language.DE': Book_name=German_Book_names[Book_number]
 
-    if link_type==LinkType.MDI: link=reading_link
-    elif link_type==LinkType.MDE: link=f'[{Book_name} {chapter_number}]({reading_link})'
-    elif link_type==LinkType.HTML: link=f'<a href="{reading_link}">{Book_name} {chapter_number}</a>'
-    elif link_type==LinkType.NO: link=f'{Book_name} {chapter_number}'
+    if link_type=='MDI': link=reading_link
+    elif link_type=='MDE': link=f'[{Book_name} {chapter_number}]({reading_link})'
+    elif link_type=='HTML': link=f'<a href="{reading_link}">{Book_name} {chapter_number}</a>'
+    elif link_type=='NO': link=f'{Book_name} {chapter_number}'
 
     return link
-'''
 
-data_file_path=os.path.join(util.code_folder_path,'data.json')
-try:
-    with open(data_file_path,encoding='utf-8',mode='r') as f:
-        program_data=json.load(f)
-except: program_data=dict()
+CURRENT_DAY=238
+lines=[]
+for day in range(CURRENT_DAY,CURRENT_DAY+366):
+    plan_for_day=get_reading_for_day(day)
+    for i,reading in enumerate(plan_for_day):
+        Book,chapter=reading
+        link=get_formatted_link(Book,chapter)
+        lines.append(link+f" день {day}" if i==0 else link)
 
-program_data['current_day']=190
-# restore the code that was here once 
-
-with open(data_file_path,encoding='utf-8',mode='w') as f:
-    json.dump(program_data,f)
+target_file=os.path.join(util.results_folder_path,'GH.md')
+with open(target_file,encoding='utf-8',mode='w') as f:
+    f.writelines([l+'\n' for l in lines])
