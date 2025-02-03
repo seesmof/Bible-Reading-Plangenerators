@@ -3,7 +3,7 @@ import os
 
 from util.const import BIBLE_BOOK_NUMBER_TO_ENGLISH_TINY_ABBREVIATION as eBible_abbreviations
 from util.const import BIBLE_BOOK_NUMBER_TO_ENGLISH_SHORT_ABBREVIATION as English_Book_names
-from util.const import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Ukrainian_Book_names
+from util.const import BIBLE_BOOK_NUMBER_TO_KULISH_BIBLE_NAME as Ukrainian_Book_names
 from util.const import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapter_counts
 from util.const import BIBLE_BOOK_NUMBER_TO_GERMAN_NAME as German_Book_names
 from util.const import CUSTOM_HORNER_PLAN_LISTS as lists_data

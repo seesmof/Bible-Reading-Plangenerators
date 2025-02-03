@@ -7,11 +7,11 @@ This program focuses specifically on the New Testament, because it's not as easy
 '''
 
 from util import *
-from Grant_Horner_Bible_Reading_Plan import get_eBible_reading_link
+from Grant_Horner_Bible_Reading_Plan import get_Bolls_reading_link, get_eBible_reading_link
 
 import util
 from util.const import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapters_data
-from util.const import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Book_names
+from util.const import BIBLE_BOOK_NUMBER_TO_HOMENKO_BIBLE_NAME as Book_names
 
 only_New_Testament={k:v for k,v in chapters_data.items() if k>=40}
 from_least_to_most_chapters=sorted(only_New_Testament.items(),key=lambda d:d[-1])
@@ -23,7 +23,7 @@ MAX_CONSECUTIVE_CHAPTERS=7
 
 smaller_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v<MAX_CONSECUTIVE_CHAPTERS}
 for Book_number,chapters_count in smaller_Books.items():
-    link=get_eBible_reading_link(Book_number,1)
+    link=get_Bolls_reading_link(Book_number,1)
     markdown_link=f'[{Book_names[Book_number]} 1-{chapters_count}]({link})' if chapters_count>1 else f'[{Book_names[Book_number]} 1]({link})'
     lines.append(markdown_link)
 
@@ -34,7 +34,7 @@ for Book_number,chapters_count in bigger_Books.items():
     amount_of_chapters_to_read=chapters_count//4 if chapters_count//3>MAX_CONSECUTIVE_CHAPTERS else chapters_count//3 if chapters_count//2>MAX_CONSECUTIVE_CHAPTERS else chapters_count//2
 
     for _ in range(4 if chapters_count//3>MAX_CONSECUTIVE_CHAPTERS else 3 if chapters_count//2>MAX_CONSECUTIVE_CHAPTERS else 2 if number_of_chapters_for_this_Book>=MAX_CONSECUTIVE_CHAPTERS else 1):
-        link=get_eBible_reading_link(Book_number,current_chapter)
+        link=get_Bolls_reading_link(Book_number,current_chapter)
         markdown_link=f'[{Book_names[Book_number]} {current_chapter}-{current_chapter-1+amount_of_chapters_to_read if current_chapter+amount_of_chapters_to_read<number_of_chapters_for_this_Book else number_of_chapters_for_this_Book}]({link})'
         lines.append(markdown_link)
         current_chapter+=amount_of_chapters_to_read
