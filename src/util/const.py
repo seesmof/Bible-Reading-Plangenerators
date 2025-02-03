@@ -2,6 +2,7 @@ import os
 
 root_folder_path=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..')
 code_folder_path=os.path.join(root_folder_path,'src')
+results_folder_path=os.path.join(root_folder_path,'output')
 
 BIBLE_BOOK_NUMBER_TO_ENGLISH_TINY_ABBREVIATION={
 1: "GN",

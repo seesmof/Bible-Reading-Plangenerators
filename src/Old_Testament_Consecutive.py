@@ -12,7 +12,7 @@ for B in range(1,40):
         t=f'[{Bn} {c}]({l})'
         res.append(t)
 
-target_file=os.path.join(util.root_folder_path,'out.md')
+target_file=os.path.join(util.results_folder_path,'OT.md')
 try:
     with open(target_file,encoding='utf-8',mode='w') as f:
         f.write('\n'.join(res))

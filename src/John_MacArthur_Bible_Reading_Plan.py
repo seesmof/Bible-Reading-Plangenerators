@@ -9,6 +9,7 @@ This program focuses specifically on the New Testament, because it's not as easy
 from util import *
 from Grant_Horner_Bible_Reading_Plan import get_eBible_reading_link
 
+import util
 from util.const import BIBLE_BOOK_NUMBER_TO_NUMBER_OF_CHAPTERS as chapters_data
 from util.const import BIBLE_BOOK_NUMBER_TO_UKRAINIAN_NAME as Book_names
 
@@ -24,8 +25,7 @@ smaller_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v<MAX_
 for Book_number,chapters_count in smaller_Books.items():
     link=get_eBible_reading_link(Book_number,1)
     markdown_link=f'[{Book_names[Book_number]} 1-{chapters_count}]({link})' if chapters_count>1 else f'[{Book_names[Book_number]} 1]({link})'
-    local=[markdown_link+f' {reading_counter}' for reading_counter in range(1,REPEAT_BOOK_TIMES+1)]
-    lines.append('\n'.join(local))
+    lines.append(markdown_link)
 
 bigger_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v>=MAX_CONSECUTIVE_CHAPTERS}
 for Book_number,chapters_count in bigger_Books.items():
@@ -36,12 +36,11 @@ for Book_number,chapters_count in bigger_Books.items():
     for _ in range(4 if chapters_count//3>MAX_CONSECUTIVE_CHAPTERS else 3 if chapters_count//2>MAX_CONSECUTIVE_CHAPTERS else 2 if number_of_chapters_for_this_Book>=MAX_CONSECUTIVE_CHAPTERS else 1):
         link=get_eBible_reading_link(Book_number,current_chapter)
         markdown_link=f'[{Book_names[Book_number]} {current_chapter}-{current_chapter-1+amount_of_chapters_to_read if current_chapter+amount_of_chapters_to_read<number_of_chapters_for_this_Book else number_of_chapters_for_this_Book}]({link})'
-        local=[markdown_link+f' {reading_counter}' for reading_counter in range(1,REPEAT_BOOK_TIMES+1)]
-        lines.append('\n'.join(local))
+        lines.append(markdown_link)
         current_chapter+=amount_of_chapters_to_read
         chapters_count-=current_chapter
 
-target_file=os.path.join(root_folder_path,'out.md')
+target_file=os.path.join(util.results_folder_path,'NT.md')
 try:
     with open(target_file,encoding='utf-8',mode='w') as f:
         f.write('\n'.join(lines))
