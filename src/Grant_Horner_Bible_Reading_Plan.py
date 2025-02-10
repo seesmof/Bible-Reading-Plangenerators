@@ -84,7 +84,7 @@ def get_eBible_reading_link(
     translation='ukrfb'
 
     # This is how a typical eBible.org reading link looks like
-    base_link = "https://ebible.org/study/?w1=bible&t1=local%3A"
+    base_link = "https://ebible.org/study/?w1=bible&t1=local:"
 
     # Form a Bible Book Abbreviation specific to eBible.org, data taken from a constant variable
     Book_name_abbreviation = eBible_abbreviations[Book_number]
