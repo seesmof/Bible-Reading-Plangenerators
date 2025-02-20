@@ -23,7 +23,7 @@ MAX_CONSECUTIVE_CHAPTERS=7
 
 smaller_Books={k:v for k,v in from_least_to_most_chapters_dict.items() if v<MAX_CONSECUTIVE_CHAPTERS}
 for Book_number,chapters_count in smaller_Books.items():
-    link=get_eBible_reading_link(Book_number,1)
+    link=get_Bolls_reading_link(Book_number,1)
     markdown_link=f'[{Book_names[Book_number]} 1-{chapters_count}]({link})' if chapters_count>1 else f'[{Book_names[Book_number]} 1]({link})'
     lines.append(markdown_link)
 
@@ -34,7 +34,7 @@ for Book_number,chapters_count in bigger_Books.items():
     amount_of_chapters_to_read=chapters_count//4 if chapters_count//3>MAX_CONSECUTIVE_CHAPTERS else chapters_count//3 if chapters_count//2>MAX_CONSECUTIVE_CHAPTERS else chapters_count//2
 
     for _ in range(4 if chapters_count//3>MAX_CONSECUTIVE_CHAPTERS else 3 if chapters_count//2>MAX_CONSECUTIVE_CHAPTERS else 2 if number_of_chapters_for_this_Book>=MAX_CONSECUTIVE_CHAPTERS else 1):
-        link=get_eBible_reading_link(Book_number,current_chapter)
+        link=get_Bolls_reading_link(Book_number,current_chapter)
         markdown_link=f'[{Book_names[Book_number]} {current_chapter}-{current_chapter-1+amount_of_chapters_to_read if current_chapter+amount_of_chapters_to_read<number_of_chapters_for_this_Book else number_of_chapters_for_this_Book}]({link})'
         lines.append(markdown_link)
         current_chapter+=amount_of_chapters_to_read

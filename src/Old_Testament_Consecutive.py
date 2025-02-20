@@ -8,7 +8,7 @@ res=[]
 for B in range(1,40):
     Bn=Book_names[B]
     for c in range(1,chapter_numbers[B]+1):
-        l=get_eBible_reading_link(B,c)
+        l=get_Bolls_reading_link(B,c)
         t=f'[{Bn} {c}]({l})'
         res.append(t)
 

@@ -76,13 +76,15 @@ def get_reading_for_day(
     # And return the formed list
     return reading_data
 
-def get_eBible_reading_link(
-    Book_number:int,
-    chapter_number:int,
-    translation='ukr1871',
-):
-    translation='ukrfb'
+class eBibleTranslations:
+    Kulish = "ukr1871"
+    Freedom = "ukrfb"
 
+def get_eBible_reading_link(
+    Book_number: int = 1,
+    chapter_number: int = 12,
+    translation: eBibleTranslations = eBibleTranslations.Kulish,
+):
     # This is how a typical eBible.org reading link looks like
     base_link = "https://ebible.org/study/?w1=bible&t1=local:"
 
@@ -94,8 +96,16 @@ def get_eBible_reading_link(
     # And return it back to the user 
     return ready_link
 
-def get_Bolls_reading_link(Book,chapter):
-    base='https://bolls.life/HOM'
+class BollsTranslations:
+    Kulish = "UKRK"
+    Homenko = "HOM"
+
+def get_Bolls_reading_link(
+    Book: int = 1,
+    chapter: int = 12,
+    translation: BollsTranslations = BollsTranslations.Kulish,
+):
+    base=f'https://bolls.life/{translation}'
     ready=f'{base}/{Book}/{chapter}/'
     return ready
 
