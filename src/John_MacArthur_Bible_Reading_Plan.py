@@ -40,8 +40,16 @@ for Book_number,chapters_count in bigger_Books.items():
         current_chapter+=amount_of_chapters_to_read
         chapters_count-=current_chapter
 
+header='''---
+aliases:
+  - НЗ
+  - NT
+  - New Testament
+---
+'''
 target_file=os.path.join(util.results_folder_path,'NT.md')
 try:
     with open(target_file,encoding='utf-8',mode='w') as f:
+        f.write(header)
         f.write('\n'.join(lines))
 except: pass

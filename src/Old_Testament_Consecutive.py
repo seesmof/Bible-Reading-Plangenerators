@@ -12,8 +12,16 @@ for B in range(1,40):
         t=f'[{Bn} {c}]({l})'
         res.append(t)
 
+header='''---
+aliases:
+  - СЗ
+  - OT
+  - Old Testament
+---
+'''
 target_file=os.path.join(util.results_folder_path,'OT.md')
 try:
     with open(target_file,encoding='utf-8',mode='w') as f:
+        f.write(header)
         f.write('\n'.join(res))
 except: pass

@@ -1,3 +1,9 @@
+---
+aliases:
+  - СЗ
+  - OT
+  - Old Testament
+---
 [1 Мойсея 1](https://bolls.life/UKRK/1/1/)
 [1 Мойсея 2](https://bolls.life/UKRK/1/2/)
 [1 Мойсея 3](https://bolls.life/UKRK/1/3/)

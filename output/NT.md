@@ -1,3 +1,9 @@
+---
+aliases:
+  - НЗ
+  - NT
+  - New Testament
+---
 [Филимона 1](https://bolls.life/UKRK/57/1/)
 [2 Йоана 1](https://bolls.life/UKRK/63/1/)
 [3 Йоана 1](https://bolls.life/UKRK/64/1/)
