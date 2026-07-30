@@ -136,7 +136,7 @@ def get_formatted_link(
     link_type="MDE",
     link_source="EBIBLE",
 ):
-    reading_link = get_Bolls_reading_link(Book_number, chapter_number)
+    reading_link = get_eBible_reading_link(Book_number, chapter_number)
 
     if language == "UK":
         Book_name = Ukrainian_Book_names[Book_number]
@@ -157,7 +157,7 @@ def get_formatted_link(
     return link
 
 
-CURRENT_DAY = 14
+CURRENT_DAY = 1
 
 lines = []
 for day in range(CURRENT_DAY, CURRENT_DAY + 366):
