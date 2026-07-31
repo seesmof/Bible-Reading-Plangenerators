@@ -1,10 +1,4 @@
-const HORNER_FLAT_LISTS = Object.entries();
+import { HornerData } from "./data";
 
-const object = {
-  a: "Jesus is LORD",
-  b: 365,
-};
-
-for (const [key, value] of Object.entries(object)) {
-  console.log(`${key} : ${value}`);
-}
+const HORNER_FLAT_LISTS = Object.entries(HornerData);
+console.log(HORNER_FLAT_LISTS);
