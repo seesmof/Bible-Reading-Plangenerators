@@ -1,17 +1,20 @@
 "use client";
 
+import { Point } from "@/lib/data";
 import { calculateDay } from "@/lib/util";
 import React, { useState } from "react";
 
 export default function IndexPage() {
   const [day, setDay] = useState<number>(1);
-  const [result, setResult] = useState<string>("");
+  const [results, setResults] = useState<{ book: Point; chapter: number }[]>([
+    {
+      book: { id: 1, engAbbr: "GEN", ukrName: "Буття", chaptersNum: 50 },
+      chapter: 1,
+    },
+  ]);
 
   const handleDaySubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-
-    const result = calculateDay(day);
-    setResult(result);
   };
 
   return (
@@ -35,7 +38,14 @@ export default function IndexPage() {
           </form>
         </div>
         <div className="bg-white p-3 rounded-md shadow flex flex-col">
-          {result}
+          {results.map((result, index) => (
+            <div className="flex gap-3" key={index}>
+              <input type="checkbox" id={result.book.id.toString()}></input>
+              <label htmlFor={result.book.id.toString()}>
+                {result.book.ukrName} {result.chapter}
+              </label>
+            </div>
+          ))}
         </div>
       </div>
     </div>
