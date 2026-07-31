@@ -157,7 +157,7 @@ def get_formatted_link(
     return link
 
 
-CURRENT_DAY = 1
+CURRENT_DAY = 4
 
 lines = []
 for day in range(CURRENT_DAY, CURRENT_DAY + 366):
