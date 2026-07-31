@@ -18,7 +18,7 @@ export default function IndexPage() {
     <div className="min-h-screen bg-sky-50">
       <div className="mx-auto max-w-md p-3 flex flex-col gap-3">
         <div className="bg-white p-3 rounded-md shadow">
-          <form className="flex gap-1" onSubmit={handleDaySubmit}>
+          <form className="flex gap-3" onSubmit={handleDaySubmit}>
             <input
               type="number"
               className="px-2 py-1 rounded-md border w-full border-sky-600"
