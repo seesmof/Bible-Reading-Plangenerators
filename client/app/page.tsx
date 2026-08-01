@@ -1,6 +1,7 @@
 "use client";
 
 import { Point } from "@/lib/data";
+import { calculateDay } from "@/lib/utils";
 import React, { useState } from "react";
 
 export default function IndexPage() {
@@ -18,6 +19,8 @@ export default function IndexPage() {
 
   const handleDaySubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
+
+    const result = calculateDay(day);
   };
 
   return (
