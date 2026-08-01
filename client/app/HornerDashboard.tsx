@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { useHornerPlan, GroupName } from "@/lib/useHornerPlan"; // змініть шлях на ваш
+import { useHornerPlan, GroupName } from "@/hooks/useHornerPlan"; // змініть шлях на ваш
 
 // Словник для гарних українських назв категорій
 const groupTitles: Record<GroupName, string> = {
